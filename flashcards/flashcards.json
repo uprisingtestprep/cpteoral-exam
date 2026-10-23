@@ -1,0 +1,3002 @@
+[
+ {
+  "id": 1,
+  "area": "skills",
+  "front": "How long is the whole CPTE and how is it ordered?",
+  "back": "The CPTE is a five hour remote proctored exam. The Oral Section comes first, then a break of about 60 minutes that is off the clock, then the Written Section. One combined pass or fail result is reported."
+ },
+ {
+  "id": 2,
+  "area": "skills",
+  "front": "What are the length, points and weight of the Oral Section?",
+  "back": "The Oral Section lasts 2.5 hours, is worth 150 points and carries 60 percent of the total CPTE result. It is the heavier section, so it deserves most of your practice time."
+ },
+ {
+  "id": 3,
+  "area": "skills",
+  "front": "What are the length, points and weight of the Written Section?",
+  "back": "The Written Section is 2.5 hours of multiple-choice questions, worth 100 points and 40 percent of the total result. It is sat after the off-clock break that follows the Oral Section."
+ },
+ {
+  "id": 4,
+  "area": "skills",
+  "front": "How many cases are in the Oral Section and how long is each?",
+  "back": "There are 10 structured cases. Each one is a fixed 15 minutes, which covers reading, planning and speaking. Ten cases at 15 minutes make exactly 150 minutes, with no spare time."
+ },
+ {
+  "id": 5,
+  "area": "skills",
+  "front": "Can you take a break during the Oral Section?",
+  "back": "No. Breaks are not permitted during the Oral Section. Plan food, water and bathroom needs before you begin, because all ten cases run back to back."
+ },
+ {
+  "id": 6,
+  "area": "skills",
+  "front": "What are the three parts of an Oral Section case?",
+  "back": "Every case has a Client Profile with the background and findings, a Clinical Scenario with the surrounding situation, and three open-ended Case Questions. You answer the questions aloud."
+ },
+ {
+  "id": 7,
+  "area": "skills",
+  "front": "What does the Client Profile contain?",
+  "back": "The Client Profile gives the essential background: age and other demographics, the current concern, relevant history and assessment findings. Read it for safety findings, key numbers and details of the client's life."
+ },
+ {
+  "id": 8,
+  "area": "skills",
+  "front": "What does the Clinical Scenario add to a case?",
+  "back": "The Clinical Scenario adds the situation around the client: psychosocial, environmental, practical or professional considerations. It often hides an issue no question names, such as a request to bend a rule."
+ },
+ {
+  "id": 9,
+  "area": "skills",
+  "front": "What is the fixed pattern of the three case questions?",
+  "back": "Question 1 is Assessment and Diagnosis or Care Planning. Question 2 is Client Safety and Client-Centred Care. Question 3 is one of Professional Responsibilities, Collaboration, Communication or Practice Management."
+ },
+ {
+  "id": 10,
+  "area": "skills",
+  "front": "Why must you answer the three questions in the order given?",
+  "back": "Examiners match what you say to their marksheet question by question. Answering out of order makes matching harder, can lose credit and can lower their view of your organization and communication."
+ },
+ {
+  "id": 11,
+  "area": "skills",
+  "front": "What is the Candidate Resource and when can you use it?",
+  "back": "It is the on-screen display of the Client Profile, Clinical Scenario and questions. You may return to it at any point during the case to re-read facts or the question wording."
+ },
+ {
+  "id": 12,
+  "area": "skills",
+  "front": "How should you use the Notes feature during a case?",
+  "back": "Use Notes for structure, not scripts. Write a skeleton of anchor words per question, the case facts you want to cite and your clock times. Full sentences slow you down and tempt you to read aloud."
+ },
+ {
+  "id": 13,
+  "area": "skills",
+  "front": "What is a workable split of the 15 minutes?",
+  "back": "About two to three minutes to read and plan, then about eleven to twelve minutes of speaking, with a short cushion. That is roughly four minutes per question, and Question 2 may deserve a little more."
+ },
+ {
+  "id": 14,
+  "area": "skills",
+  "front": "About how many words should you speak across one case?",
+  "back": "At a clear pace of 120 to 140 words a minute, eleven to twelve minutes of speaking gives about 1,400 to 1,600 words across the three answers. Plan for that, not for everything you know."
+ },
+ {
+  "id": 15,
+  "area": "skills",
+  "front": "What is the most common timing failure in a case?",
+  "back": "Spending seven or eight minutes on Question 1 because it is the question you know best, then rushing Questions 2 and 3. Each question is a full third of the case, so budget before you speak."
+ },
+ {
+  "id": 16,
+  "area": "skills",
+  "front": "What checkpoints help you stay on time?",
+  "back": "By about six minutes in, finish Question 1 or start Question 2. By about ten minutes, start Question 3. If behind, shorten the next answer by dropping low-priority points rather than speaking faster."
+ },
+ {
+  "id": 17,
+  "area": "skills",
+  "front": "What if you finish a case early?",
+  "back": "You gain no time for the next case. The clock is fixed, so use any leftover minutes to breathe and reset; the examiner will tell you when the case is complete and to move on."
+ },
+ {
+  "id": 18,
+  "area": "skills",
+  "front": "Who marks your Oral Section cases?",
+  "back": "Two examiners score each case, and at least one watches in real time. If there is no second live examiner, the second scores from the recording. Their role is standardized and silent."
+ },
+ {
+  "id": 19,
+  "area": "skills",
+  "front": "What will examiners not do during your case?",
+  "back": "They will not read the questions to you, clarify anything, prompt you for more, or give time reminders. A content question such as asking for more history gets only a reminder that they cannot clarify."
+ },
+ {
+  "id": 20,
+  "area": "skills",
+  "front": "What is the only redirection an examiner may give?",
+  "back": "If they think you missed the intent of a question, they may tell you once to re-read the question. The wording is the same every time. It signals that your answer is not addressing what was asked."
+ },
+ {
+  "id": 21,
+  "area": "skills",
+  "front": "How should you react if told to re-read the question?",
+  "back": "Take it seriously. Re-read slowly, find the verb and the subject, then answer that. A brief spoken bridge works: say you are re-reading to be sure you address it, then restate the ask."
+ },
+ {
+  "id": 22,
+  "area": "skills",
+  "front": "Should you read the examiner's face for your progress?",
+  "back": "No. A silent face says nothing about your score. Do not stop to wait for approval. Speak as to a colleague who needs to understand your plan, and keep going."
+ },
+ {
+  "id": 23,
+  "area": "skills",
+  "front": "How many points is each Oral case worth, and are cases linked?",
+  "back": "Each case is worth 15 points and is marked independently. A bad case does not follow you into the next one, and a strong case does not rescue the next. The ten cases sum to 150."
+ },
+ {
+  "id": 24,
+  "area": "skills",
+  "front": "What two tools make up the examiners' response key?",
+  "back": "Checklists of acceptable responses that examiners tick as they hear them, and 4-point performance scales that rate your clinical reasoning and how well your answer addresses the intent of the question."
+ },
+ {
+  "id": 25,
+  "area": "skills",
+  "front": "What does a checklist reward in the Oral Section?",
+  "back": "Content. The examiner listens and checks off acceptable responses you state. You need not match every item, but each item you cover earns credit, and more items make a stronger response."
+ },
+ {
+  "id": 26,
+  "area": "skills",
+  "front": "What do the 4-point performance scales reward?",
+  "back": "Judgment. They rate how well you explain clinical reasoning and decision-making, and how effectively you address the intent of the question. A list of facts unlinked to the client scores poorly here."
+ },
+ {
+  "id": 27,
+  "area": "skills",
+  "front": "How do you earn credit on both checklists and scales?",
+  "back": "Say what you would do, say why, and connect the why to a fact in the Client Profile or Clinical Scenario. That gives content for the checklist and tied reasoning for the scale."
+ },
+ {
+  "id": 28,
+  "area": "skills",
+  "front": "How are the two examiners' scores combined?",
+  "back": "Their scores for each case are averaged. They do not meet to agree on your marks. The gap between them is calculated, and cases with a significant difference are flagged for review."
+ },
+ {
+  "id": 29,
+  "area": "skills",
+  "front": "What happens when the two examiners' scores differ greatly?",
+  "back": "A third examiner scores the flagged case blind, from the recording, and that score is factored in to correct the discrepancy. This protects you from one unusually harsh or lenient marker."
+ },
+ {
+  "id": 30,
+  "area": "skills",
+  "front": "Is there an automatic fail on the Oral Section?",
+  "back": "No. The CPTE does not fail you automatically for responding incorrectly to a red flag, safety or professionalism question. This does not make safety optional, since marks are still lost."
+ },
+ {
+  "id": 31,
+  "area": "skills",
+  "front": "Must you pass a minimum number of cases?",
+  "back": "No. There is no minimum number of cases you must pass. Low scores across many cases might still leave your total below the standard, so one bad case is survivable but a weak pattern is not."
+ },
+ {
+  "id": 32,
+  "area": "skills",
+  "front": "What should you do if you realize you missed something in an earlier case?",
+  "back": "Let it go. You cannot return to it, and the current case is worth the same 15 points. Put your attention on the case in front of you."
+ },
+ {
+  "id": 33,
+  "area": "skills",
+  "front": "Does the CAPR publish a passing percentage?",
+  "back": "No. It describes the passing score as the standard of minimal competence needed to practise safely and effectively as an entry-to-practice physiotherapist in Canada, and combines section scores by weight."
+ },
+ {
+  "id": 34,
+  "area": "skills",
+  "front": "Name the seven Domains of Practice assessed by the CPTE.",
+  "back": "Assessment and Diagnosis, Care Planning, Client Safety and Client-Centred Care, Professional Responsibilities, Collaboration, Communication and Practice Management. Each case question maps to one of these domains."
+ },
+ {
+  "id": 35,
+  "area": "skills",
+  "front": "What are the whole-exam domain weights?",
+  "back": "Assessment and Diagnosis 20 percent, Care Planning 20, Client Safety and Client-Centred Care 15, Professional Responsibilities 15, Collaboration 12, Communication 10 and Practice Management 8."
+ },
+ {
+  "id": 36,
+  "area": "skills",
+  "front": "What are the approximate Oral Section domain weights?",
+  "back": "Of the 60 percent: Professional Responsibilities 14, Assessment and Diagnosis 8, Care Planning 8, Client Safety and Client-Centred Care 8, Collaboration 7, Communication 7, Practice Management 7. Figures are approximate."
+ },
+ {
+  "id": 37,
+  "area": "skills",
+  "front": "Which domain is largest in the Oral Section?",
+  "back": "Professional Responsibilities, at about 14 of the 60 percent, by a wide margin. Consent, documentation, scope of practice, duty to report and delegation deserve rehearsal."
+ },
+ {
+  "id": 38,
+  "area": "skills",
+  "front": "How much of the Oral Section is non-technical domains?",
+  "back": "Professional Responsibilities, Collaboration, Communication and Practice Management together make up more than half of what the Oral Section measures, so assessment knowledge alone is not enough."
+ },
+ {
+  "id": 39,
+  "area": "skills",
+  "front": "What is the target mix of areas of practice across the exam?",
+  "back": "About 50 percent musculoskeletal, 20 percent neurological, 15 percent cardiovascular and respiratory, and 15 percent other. The Blueprint lists 47 condition categories."
+ },
+ {
+  "id": 40,
+  "area": "skills",
+  "front": "Are all Oral cases tied to a diagnosis?",
+  "back": "No. Some focus on non-clinical competencies, such as a consent conversation or supervising an assistant, where the intent can be shown without knowing one diagnosis."
+ },
+ {
+  "id": 41,
+  "area": "skills",
+  "front": "What habits does a neurological case reward?",
+  "back": "Attention to cognition and communication, falls risk, family involvement and long-term planning. Also tie each decision to the client's participation goals and safety."
+ },
+ {
+  "id": 42,
+  "area": "skills",
+  "front": "What habits does a cardiovascular or respiratory case reward?",
+  "back": "Attention to vital signs, exertion limits and stopping criteria. State what you would monitor, what values or symptoms would make you stop, and when you would refer or call for help."
+ },
+ {
+  "id": 43,
+  "area": "skills",
+  "front": "What does the 'other' area of practice include?",
+  "back": "Pediatric, women's health, skin, mental health and complex multisystem situations. The point is often the limit of your scope or a referral, rather than detailed treatment."
+ },
+ {
+  "id": 44,
+  "area": "skills",
+  "front": "At what level are cases set?",
+  "back": "Entry-to-practice, as a newly licensed physiotherapist. A case may include an interesting finding that is not the priority. Recognizing what matters most and saying why you set the rest aside is part of the skill."
+ },
+ {
+  "id": 45,
+  "area": "skills",
+  "front": "How should you open each answer?",
+  "back": "Say the question number aloud, such as 'For question one', then begin. This helps examiners place your points against the correct response key."
+ },
+ {
+  "id": 46,
+  "area": "skills",
+  "front": "What should you do before planning anything in a case?",
+  "back": "Read the Client Profile, the Clinical Scenario and all three questions first. Later questions can add new information, and reading ahead stops you giving Question 3 material during Question 1."
+ },
+ {
+  "id": 47,
+  "area": "skills",
+  "front": "What should you scan for while reading the Client Profile?",
+  "back": "A finding that changes safety, a finding that looks important but is not the priority, a number to interpret such as an outcome measure score, and a life detail that must shape the plan."
+ },
+ {
+  "id": 48,
+  "area": "skills",
+  "front": "What does the unofficial practice score in this book mean?",
+  "back": "The checklists and scales in this book were written for it, following the CAPR structure, but they are not the real keys. The practice score is for tracking habits, not for predicting a pass or fail."
+ },
+ {
+  "id": 49,
+  "area": "skills",
+  "front": "What is a good rehearsal routine for a practice case?",
+  "back": "Set a 15 minute timer, speak aloud and record yourself, stop at 15 minutes, tick the key honestly, rate yourself on the scale, read the model last, then pick one habit to change next case."
+ },
+ {
+  "id": 50,
+  "area": "skills",
+  "front": "What should you do when stuck mid-answer?",
+  "back": "Re-read the question, pick the most relevant point and keep going. Do not go silent waiting for a cue, since examiners give none and silence uses clock time."
+ },
+ {
+  "id": 51,
+  "area": "skills",
+  "front": "Where in your spoken assessment should the red flag screen go?",
+  "back": "Place it early, before any hands on testing. Say that it decides whether you continue a physiotherapy assessment or arrange urgent medical care. Then name only the two or three red flags that fit this client and explain why."
+ },
+ {
+  "id": 52,
+  "area": "skills",
+  "front": "How long should you speak on an assessment question, and roughly how many words is that?",
+  "back": "Aim for about four minutes of speaking, which is roughly 500 to 600 words at a calm pace. The whole case is about 15 minutes including reading and planning, so budget your time before you start talking."
+ },
+ {
+  "id": 53,
+  "area": "skills",
+  "front": "What is hypothesis driven reasoning and why does it help in an oral answer?",
+  "back": "You form early ideas from the first case details, then use each question and test to strengthen or weaken them. Saying this aloud gives your answer a spine and shows the examiner you are testing ideas, not following a script."
+ },
+ {
+  "id": 54,
+  "area": "skills",
+  "front": "How should you rank your hypotheses when you state them aloud?",
+  "back": "Rank by two things: how likely each is given the picture, and how harmful it would be to miss. A less likely but dangerous cause, such as fracture or a cardiac source, stays on the list and is screened early."
+ },
+ {
+  "id": 55,
+  "area": "skills",
+  "front": "What is a good spoken way to show you will update your hypotheses?",
+  "back": "Use if-then statements tied to findings: \"If neck movements reproduce the arm symptoms, I will raise the cervical hypothesis. If resisted wrist extension hurts at the epicondyle and the neck screen is clear, I become more confident in tendinopathy.\""
+ },
+ {
+  "id": 56,
+  "area": "skills",
+  "front": "What are red flags, and are they a diagnosis?",
+  "back": "Red flags are history or examination features that raise the chance of serious pathology such as fracture, infection, cancer, cauda equina syndrome or vascular problems. They are not a diagnosis. They are a reason to look harder or to refer."
+ },
+ {
+  "id": 57,
+  "area": "skills",
+  "front": "Name common red flag areas you can mention briefly in an oral answer.",
+  "back": "Unexplained weight loss, fever, night sweats or past cancer; constant pain unchanged by position or rest; significant trauma, or minor trauma with osteoporosis or steroid use; bowel, bladder or saddle changes; exertional chest symptoms; calf pain with swelling and warmth."
+ },
+ {
+  "id": 58,
+  "area": "skills",
+  "front": "A client has low back pain and progressive leg weakness. Which screen comes in your first thirty seconds?",
+  "back": "The cauda equina screen. Ask about saddle numbness, new bladder or bowel change and worsening weakness. If positive, stop the assessment, send the person to the emergency department immediately, and document your findings and communication with the receiving team."
+ },
+ {
+  "id": 59,
+  "area": "skills",
+  "front": "After a positive red flag, what two things must your spoken answer include?",
+  "back": "A clear action and a clear timeline. For example, stop the assessment and send the person to the emergency department now, then document findings and the handoff. Naming the action and urgency matters more than listing signs."
+ },
+ {
+  "id": 60,
+  "area": "skills",
+  "front": "What are yellow flags in an assessment, and why screen for them?",
+  "back": "Psychosocial factors that raise the risk of long term disability or slow recovery, such as fear of movement, belief that pain means damage, low mood, work worries, poor sleep or lack of support."
+ },
+ {
+  "id": 61,
+  "area": "skills",
+  "front": "How do you avoid saying only \"I will screen for yellow flags\"?",
+  "back": "Say what you will ask and what you will do with the answer. For example, ask \"What do you think is going on?\" If he fears bending will cause damage, you change your education, pacing and activity progression."
+ },
+ {
+  "id": 62,
+  "area": "skills",
+  "front": "How should you organize your subjective assessment questions in a spoken answer?",
+  "back": "Group them by purpose and give one example from each: the problem itself, safety, function and participation, context, and expectations and goals. This sounds organized and avoids reading out a long list of questions."
+ },
+ {
+  "id": 63,
+  "area": "skills",
+  "front": "What is irritability and how does it change your first visit?",
+  "back": "Irritability is how easily symptoms flare and how slowly they settle. If pain comes on within a minute and takes an hour to settle, treat it as irritable: use fewer, gentler tests and a lighter dose."
+ },
+ {
+  "id": 64,
+  "area": "skills",
+  "front": "What one word makes each test or question you name sound justified?",
+  "back": "\"Because.\" Finish every sentence with the reason. For example, \"I will ask about night pain because constant night pain unrelated to position can point toward something other than a mechanical problem.\""
+ },
+ {
+  "id": 65,
+  "area": "skills",
+  "front": "What order makes sense for the objective assessment in an oral answer?",
+  "back": "Observation, active movement, passive movement and end feel where appropriate, resisted tests, neurological screening, palpation, then special tests chosen to settle your hypotheses. Say what each part is meant to tell you."
+ },
+ {
+  "id": 66,
+  "area": "skills",
+  "front": "How many special tests should you name, and how do you choose them?",
+  "back": "Only a few, matched to your leading and alternative hypotheses. For each, say why you chose it and what you will do with the result. Listing every test you know does not earn reasoning points."
+ },
+ {
+  "id": 67,
+  "area": "skills",
+  "front": "Which tests go last in the physical examination, and when do you stop?",
+  "back": "Painful or provocative tests go last. Stop if a test reproduces severe or worsening symptoms. Also mention consent briefly: explain what you plan to do, check the client is comfortable, and stop if they ask."
+ },
+ {
+  "id": 68,
+  "area": "skills",
+  "front": "What does sensitivity tell you, and what is SnNout?",
+  "back": "Sensitivity is how well a test catches people who truly have the problem. A highly sensitive test that is negative makes the condition less likely, so it helps rule out. This is the idea behind SnNout."
+ },
+ {
+  "id": 69,
+  "area": "skills",
+  "front": "What does specificity tell you, and what is SpPin?",
+  "back": "Specificity is how well a test clears people who do not have the problem. A highly specific test that is positive makes the condition more likely, so it helps rule in. This is the idea behind SpPin."
+ },
+ {
+  "id": 70,
+  "area": "skills",
+  "front": "How do likelihood ratios help you interpret a test result?",
+  "back": "They show how much a result should move your suspicion. A positive ratio well above 1, especially above about 5 to 10, raises probability meaningfully; a negative ratio well below 1, especially below 0.2 to 0.1, lowers it. Near 1 changes little."
+ },
+ {
+  "id": 71,
+  "area": "skills",
+  "front": "What should you say when a single special test is positive?",
+  "back": "A positive test alone does not make the diagnosis. Its value depends on how likely the problem was beforehand. Combine it with the history, movement pattern and other findings, because a cluster of findings is more convincing than one test."
+ },
+ {
+  "id": 72,
+  "area": "skills",
+  "front": "What are the Ottawa ankle rules and the Wells score used for?",
+  "back": "The Ottawa ankle rules help decide whether an ankle or midfoot injury needs an X-ray. The Wells score estimates the pretest probability of deep vein thrombosis. Say what the rule is for and what you would do with its result."
+ },
+ {
+  "id": 73,
+  "area": "skills",
+  "front": "How should you justify choosing an outcome measure in an oral answer?",
+  "back": "Choose it because it fits the client and problem, and say how you will use it. For example, the Patient Specific Functional Scale because the client named three goals, plus Timed Up and Go for fall history, repeated at four weeks."
+ },
+ {
+  "id": 74,
+  "area": "skills",
+  "front": "Give examples of mobility and balance outcome measures.",
+  "back": "Timed Up and Go, 30 second chair stand, Berg Balance Scale and gait speed. Pair one with a pain rating and a region specific questionnaire, say why each fits the client, and say when you will repeat it."
+ },
+ {
+  "id": 75,
+  "area": "skills",
+  "front": "What frame helps you state your impression after the assessment?",
+  "back": "Leading, alternative, must not miss. State the leading explanation and what supports it, what argues against another option, and what remains possible. Then say how you will settle the uncertainty."
+ },
+ {
+  "id": 76,
+  "area": "skills",
+  "front": "How can you settle remaining diagnostic uncertainty?",
+  "back": "Name the next step: a further test, a trial of treatment with a clear reassessment point, imaging, or a referral. Saying which one and why shows reasoning rather than leaving the uncertainty hanging."
+ },
+ {
+  "id": 77,
+  "area": "skills",
+  "front": "What is a physiotherapy diagnosis or clinical impression?",
+  "back": "A statement naming the main problem in terms that guide treatment. It can be pathoanatomical, a movement impairment, or a functional limitation, and often combines layers. Give it in one or two sentences, then link it to the plan."
+ },
+ {
+  "id": 78,
+  "area": "skills",
+  "front": "What wording is safe when stating an impression within Canadian scope of practice?",
+  "back": "\"The findings are consistent with...\" This is accurate and safe. Diagnoses outside physiotherapy scope belong to other regulated professionals, so say when imaging or a physician's input would confirm your impression."
+ },
+ {
+  "id": 79,
+  "area": "skills",
+  "front": "What are the three typical triggers to refer or stop?",
+  "back": "A red flag or finding outside your scope; no change or worsening after a reasonable trial of treatment; and features needing another professional for safety, such as a mental health crisis, suspected abuse or a medication question."
+ },
+ {
+  "id": 80,
+  "area": "skills",
+  "front": "How do you state the urgency level when referring?",
+  "back": "Emergency, such as suspected stroke or cauda equina syndrome: call emergency services or send to the emergency department now. Urgent, such as suspected fracture or DVT: same day physician or urgent care contact. Routine: referral letter and follow up."
+ },
+ {
+  "id": 81,
+  "area": "skills",
+  "front": "What should accompany a referral decision besides naming the destination?",
+  "back": "What you will tell the client in plain language, what you will document, and what you will pass on. For example, explain your concern, document findings and advice, and phone the family physician today with a clear summary."
+ },
+ {
+  "id": 82,
+  "area": "skills",
+  "front": "How do you communicate uncertainty without losing marks?",
+  "back": "Pair every uncertainty with a plan. Say \"Based on what I have so far, the most likely explanation is X, but I would confirm by Y.\" Avoid both false certainty and vagueness: name the options and the next step."
+ },
+ {
+  "id": 83,
+  "area": "skills",
+  "front": "What two parts does the response key use for a care planning question?",
+  "back": "A checklist of acceptable content (goals, linked interventions, education, reassessment, next steps) and a four point performance scale judging reasoning and whether you answered the intent of the question. Listing ten treatments scores low on reasoning."
+ },
+ {
+  "id": 84,
+  "area": "skills",
+  "front": "How long should a care plan answer take within your speaking time?",
+  "back": "About three to four minutes of your eleven or twelve minutes of speaking. Cover the parts the case makes relevant and always say how you will know the plan worked."
+ },
+ {
+  "id": 85,
+  "area": "skills",
+  "front": "What makes a goal belong to the client rather than the therapist?",
+  "back": "It states what the client will be able to do, in a time frame, that matters to their life. \"Walk her dog for thirty minutes without knee pain within six weeks\" beats \"decrease pain with ultrasound.\""
+ },
+ {
+  "id": 86,
+  "area": "skills",
+  "front": "What does SMART stand for in goal setting?",
+  "back": "Specific, measurable, achievable, relevant and time-bound. Turn the client's own words into a function and, if the profile gives a baseline outcome score, attach a number to the goal."
+ },
+ {
+  "id": 87,
+  "area": "skills",
+  "front": "How many goals should you state, and what pattern works?",
+  "back": "Two or three. Use a long goal tied to the client's role, a short goal tied to a symptom or early function, and a time frame on each. Five goals sounds like a template."
+ },
+ {
+  "id": 88,
+  "area": "skills",
+  "front": "How do you show shared goal setting aloud?",
+  "back": "Ask what matters most over the next month, explain what the findings suggest is realistic, and agree together on two or three goals. Goals are agreed with the client, not delivered to them."
+ },
+ {
+  "id": 89,
+  "area": "skills",
+  "front": "A client wants to return to sport sooner than is safe. How do you respond?",
+  "back": "Explain the healing stage and re-injury risk, then offer a staged return with clear criteria so the goal stays theirs. If they still choose to go earlier, document the discussion and keep treating them."
+ },
+ {
+  "id": 90,
+  "area": "skills",
+  "front": "What must you cover when obtaining consent for an intervention?",
+  "back": "Explain what it is, why you recommend it, likely benefits and risks, and alternatives including doing nothing, then confirm agreement. Consent is ongoing, so check again whenever the plan changes."
+ },
+ {
+  "id": 91,
+  "area": "skills",
+  "front": "What should follow every intervention you name in a care plan?",
+  "back": "A because tied to a finding. For example, a graded walking program because the six minute walk distance is low, vitals are stable and the main goal is community walking."
+ },
+ {
+  "id": 92,
+  "area": "skills",
+  "front": "In what order do you prioritize interventions?",
+  "back": "Safety first (advice against a movement, urgent review, checking blood pressure before exercise), then the impairment or limitation most linked to the goal, then supporting pieces. Choose from education, exercise, and adjuncts as the case demands."
+ },
+ {
+  "id": 93,
+  "area": "skills",
+  "front": "How do you describe the place of manual therapy in a care plan?",
+  "back": "As an adjunct to active care when findings justify it, never the whole plan. Say exercise and education are the core for most common conditions, and manual techniques help only if they let the client move well enough to exercise."
+ },
+ {
+  "id": 94,
+  "area": "skills",
+  "front": "What does a dose need besides the name of an exercise?",
+  "back": "Frequency, intensity, time and type. Beginner strengthening is commonly two to three sets of about eight to twelve repetitions at moderately hard effort, two to three days a week, with rest between sessions for the same muscle group."
+ },
+ {
+  "id": 95,
+  "area": "skills",
+  "front": "How do you set exercise intensity for a client on a beta blocker?",
+  "back": "Heart rate is blunted, so use perceived exertion alongside it. For aerobic work, start at moderate effort where breathing is harder but talking is still possible, and treat targets like 150 minutes a week as a general direction."
+ },
+ {
+  "id": 96,
+  "area": "skills",
+  "front": "How do you state a progression rule that sounds clinical?",
+  "back": "Progress when all sets are completed with good control and the next day response is no worse than mild and settles within a day. Change one variable at a time, and use the client's symptoms as feedback."
+ },
+ {
+  "id": 97,
+  "area": "skills",
+  "front": "What is regression and why say it aloud?",
+  "back": "Reducing load or range when pain rises and does not settle in the agreed time, or form breaks down. Saying you would regress rather than stop shows you want the client to stay active."
+ },
+ {
+  "id": 98,
+  "area": "skills",
+  "front": "What four questions should client education answer?",
+  "back": "What is it, what caused it, what can I do about it, and what should I watch for. Add a fifth when relevant: what do I do if it flares? Check understanding with teach-back."
+ },
+ {
+  "id": 99,
+  "area": "skills",
+  "front": "What belongs in a flare-up plan?",
+  "back": "A brief rule the client can follow alone, such as: if pain stays above pre-session level for more than a day, halve the load for two days, keep moving within comfort, and contact me if it is not settling."
+ },
+ {
+  "id": 100,
+  "area": "skills",
+  "front": "How do tissue healing phases and irritability shape dosing?",
+  "back": "Early phase: protect and move gently within comfort. Middle: controlled load and range. Late: strength and task capacity. High irritability means a gentler dose, shorter sessions and no repeated provocation; irritability is separate from severity."
+ },
+ {
+  "id": 101,
+  "area": "skills",
+  "front": "What two ideas does Question 2 of every Oral Section case test, and how should an answer cover both?",
+  "back": "Client safety means recognizing risk and acting to prevent harm. Client-centred care means the client's goals, values and choices shape the plan. Touch both every time: if asked about risk, say how the client takes part in the decision; if asked about wishes, state your safety limits."
+ },
+ {
+  "id": 102,
+  "area": "skills",
+  "front": "Where do safety and client-centred issues usually hide in an Oral Section case, and what must you do with them?",
+  "back": "They are buried in the profile or scenario and never flagged: a high heart rate, an anticoagulant, a daughter who interprets. Find each detail, name it aloud, and tie it to an action. The examiner cannot ask what you meant, so every link must be spoken."
+ },
+ {
+  "id": 103,
+  "area": "skills",
+  "front": "What is the difference between a contraindication and a precaution?",
+  "back": "A contraindication is a reason not to do something at all. A precaution is a reason to proceed carefully, modify the technique, or monitor more closely. Saying the difference aloud shows judgment, for example: pregnancy is a precaution for some modalities and a contraindication for others, so I would check the specific agent."
+ },
+ {
+  "id": 104,
+  "area": "skills",
+  "front": "How should you organize your thinking to name precautions quickly out loud?",
+  "back": "Sort into four groups: the condition itself (acute fracture, unstable spine, suspected clot), the medications (anticoagulants, blood pressure drugs, corticosteroids, opioids), the client's other health problems (diabetes, osteoporosis, cognitive impairment), and the technique you are considering (cervical manual therapy, heat over insensate skin)."
+ },
+ {
+  "id": 105,
+  "area": "skills",
+  "front": "What four parts make a precaution statement score well?",
+  "back": "Name the risk, the reason, the change in plan, and the client communication. Example: because he takes warfarin, I would avoid deep friction over the bruise, ask when his last blood test was, and tell him to report new swelling or unusual bruising right away. Vague phrases like being careful earn less."
+ },
+ {
+  "id": 106,
+  "area": "skills",
+  "front": "A case gives an anticoagulant in the medication list. What risk do you name and what changes in your plan?",
+  "back": "Name increased bleeding and bruising risk. Avoid aggressive soft tissue work, deep friction and forceful techniques over bruised areas, ask about recent blood tests, watch for new swelling or unusual bruising, and teach the client to report it immediately. State that you would inform the prescriber if you see concerning signs."
+ },
+ {
+  "id": 107,
+  "area": "skills",
+  "front": "What should you say about vital signs before, during and after activity in a cardiac or respiratory case?",
+  "back": "Before: resting heart rate, blood pressure, oxygen saturation when relevant, and how the client feels. During: heart rate response, perceived exertion on the Borg scale, breathlessness, dizziness, colour, chest discomfort and pain. After: whether vital signs return toward resting values in a reasonable time."
+ },
+ {
+  "id": 108,
+  "area": "skills",
+  "front": "What is a safe spoken answer when you do not know the exercise parameters for a cardiac client?",
+  "back": "Say you would follow the parameters set by the cardiac team or your facility. If none were available, you would hold exercise when resting blood pressure is very high or very low, when resting heart rate is outside a safe range, or when the client has new symptoms."
+ },
+ {
+  "id": 109,
+  "area": "skills",
+  "front": "Name stopping criteria you can list when exercising a client.",
+  "back": "Chest pain or pressure, severe or unusual shortness of breath, dizziness or near fainting, pallor or cold sweat, a drop in systolic blood pressure as workload rises, a marked fall in oxygen saturation, new neurological signs such as slurred speech, facial droop or sudden weakness, and severe unexpected pain."
+ },
+ {
+  "id": 110,
+  "area": "skills",
+  "front": "What action sequence do you state after a stopping criterion appears during exercise?",
+  "back": "Stop the activity, sit the client down, recheck vital signs, call for help if symptoms do not settle, and document. For stroke symptoms, or chest pain that does not settle, say that you activate emergency services rather than waiting to see if it passes."
+ },
+ {
+  "id": 111,
+  "area": "skills",
+  "front": "How should a spoken falls prevention answer be organized?",
+  "back": "Sort risks into the client (balance, weakness, vision, medications, cognition, orthostatic blood pressure, footwear), the task (transfers, stairs, walking aid use) and the environment (rugs, lighting, clutter, wet floors, grab bars, icy steps). Then name an action for each, tied to case details."
+ },
+ {
+  "id": 112,
+  "area": "skills",
+  "front": "How do you state infection prevention so it earns marks rather than sounding generic?",
+  "back": "Say what you would actually do: hand hygiene before and after contact, cleaning shared equipment between clients, personal protective equipment matched to the risk, and routine practices plus additional contact, droplet or airborne precautions. Never stop at I would use infection control."
+ },
+ {
+  "id": 113,
+  "area": "skills",
+  "front": "A case mentions an open wound, a recent respiratory infection or an isolation sign. What do you add to your answer?",
+  "back": "Name the specific precaution that applies and how you would sequence your day, for example seeing this client last or using dedicated equipment. Add the matching personal protective equipment and hand hygiene steps, and explain the reason to the client in plain language."
+ },
+ {
+  "id": 114,
+  "area": "skills",
+  "front": "What elements of informed consent should you be able to name aloud?",
+  "back": "The purpose of the assessment or treatment, what it will feel like, expected benefits, material risks, alternatives including doing nothing, and who will be present. The client can ask questions, consents voluntarily without pressure, and can withdraw at any time, at which point you stop."
+ },
+ {
+  "id": 115,
+  "area": "skills",
+  "front": "Why does the Oral Section stress that consent is ongoing, and when do you ask again?",
+  "back": "Consent is a conversation renewed when something changes, not a first visit signature. Ask again before a new technique, before touching a sensitive area, before involving a student, before sharing information with another provider, and whenever the client seems hesitant. Document it, verbal or written per your setting."
+ },
+ {
+  "id": 116,
+  "area": "skills",
+  "front": "How is capacity defined, and what is its key feature?",
+  "back": "Capacity is the ability to understand information relevant to a decision and to appreciate the likely consequences of deciding one way or another. It is specific to the decision and the time, so a person may have capacity for one choice and not another, and it can fluctuate."
+ },
+ {
+  "id": 117,
+  "area": "skills",
+  "front": "What do you say when a client's capacity is in doubt?",
+  "back": "Do not assume incapacity from age, dementia or an unusual decision. Ask the client to explain in their own words what the treatment is for and what might happen if they refuse, choosing a quiet time with plain language. If doubt remains, involve the care team and follow the formal assessment process."
+ },
+ {
+  "id": 118,
+  "area": "skills",
+  "front": "What happens when a client lacks capacity for a specific decision?",
+  "back": "The legally recognized substitute decision maker is consulted, following your province's law. The client still takes part as much as possible, and their previously expressed wishes and values guide the choice. Keep language general: I would follow the law in my province."
+ },
+ {
+  "id": 119,
+  "area": "skills",
+  "front": "What does shared decision making sound like in a spoken answer?",
+  "back": "Offer real options in plain language, explain what each involves and the realistic expectations, ask which fits the client's schedule and goals, agree on one, and set a review date. The client's answer must change the plan. Example: weekly supervised sessions or a home program with fewer visits."
+ },
+ {
+  "id": 120,
+  "area": "skills",
+  "front": "How do you use teach back, and why do examiners value it?",
+  "back": "Ask the client to tell you in their own words how they will do the exercises or what warning signs to watch for, so you know your explanation worked. It replaces the empty phrase I would educate the client with a concrete check of understanding."
+ },
+ {
+  "id": 121,
+  "area": "skills",
+  "front": "What is the difference between cultural humility and cultural safety?",
+  "back": "Cultural humility is an ongoing stance of self-reflection and learning, recognizing the client as the expert in their own experience. Cultural safety is an outcome judged by the client: they feel respected and free from discrimination. Both grew partly from Indigenous health work in Canada."
+ },
+ {
+  "id": 122,
+  "area": "skills",
+  "front": "What concrete behaviours show cultural safety with an Indigenous client?",
+  "back": "Ask how they prefer to be addressed, invite family, an Elder, a community health representative or a navigator if they wish, and ask permission before assuming beliefs. Acknowledge how colonial history and past harm affect trust, offer time without rushing, and respect traditional healing alongside the plan."
+ },
+ {
+  "id": 123,
+  "area": "skills",
+  "front": "What principles guide trauma-informed care, and what do you say to a client during an examination?",
+  "back": "Principles are safety, trust, choice, collaboration and empowerment. Explain every step before touching, ask permission each time, let the client control the pace, say they may stop at any moment, and avoid exposing areas you do not need. If distressed, pause, ground with calm words, and offer to continue another day."
+ },
+ {
+  "id": 124,
+  "area": "skills",
+  "front": "When a client misses visits because of a barrier, what should you say before calling them non-adherent?",
+  "back": "Say you would first look for and fix the barrier: physical access, sensory or cognitive needs, cost, distance, transportation, appointment times, or virtual options. Offer fewer visits with a home program, telehealth check-ins, or home care physiotherapy, and let the client choose within safe limits."
+ },
+ {
+  "id": 125,
+  "area": "skills",
+  "front": "Whom should you use as an interpreter, and how do you work with one?",
+  "back": "Use a qualified medical interpreter, in person, by phone or by video. Avoid family members, especially children, because of accuracy, privacy and burden. An emergency exception is reasonable until a qualified interpreter is arranged. Speak to the client, not the interpreter, and allow extra time."
+ },
+ {
+  "id": 126,
+  "area": "skills",
+  "front": "How do you turn a client's values into goals the examiner can hear?",
+  "back": "Ask what they would like to do that they cannot do now, record it in their words, and connect assessment findings and treatments to it. Use a functional measure like the Patient Specific Functional Scale where it fits. A range of motion target may miss that they want to lift a grandchild."
+ },
+ {
+  "id": 127,
+  "area": "skills",
+  "front": "What test do you apply to each sentence to avoid generic statements?",
+  "back": "Ask whether it could be said about any client. If yes, add a case detail. Replace I would keep her safe with a specific action tied to her blood pressure drop on standing. Link every action to a fact in the case, and every fact you notice to an action."
+ },
+ {
+  "id": 128,
+  "area": "skills",
+  "front": "What is the risk in a postoperative case with a warm knee, tender calf and heart rate of 104 on apixaban?",
+  "back": "Suspect deep vein thrombosis, with infection also possible, since apixaban does not rule it out. Do no exercise or manual techniques, check temperature, blood pressure, oxygen saturation and the wound, ask about breathlessness or chest pain, and contact the surgeon or physician the same day. Call emergency services for chest pain."
+ },
+ {
+  "id": 129,
+  "area": "skills",
+  "front": "In the Oral Section, where does collaboration appear in a case?",
+  "back": "Collaboration is not a separate topic at the end. It runs through the whole case. Examiners listen for who else is involved, when you would bring them in, what you would tell them, and how you would find out the plan worked, while you stay within competence and keep the client central."
+ },
+ {
+  "id": 130,
+  "area": "skills",
+  "front": "When should you go to the physician or nurse practitioner?",
+  "back": "When you find red flags, when symptoms do not fit a musculoskeletal pattern, when you think medication needs review, or when the client needs a test you cannot order. Depending on province and setting, nurse practitioners can also diagnose, prescribe and order tests, so saying physician or nurse practitioner is safest."
+ },
+ {
+  "id": 131,
+  "area": "skills",
+  "front": "How do you divide work between a physiotherapist and an occupational therapist?",
+  "back": "They overlap on mobility and upper limb work, so say clearly who takes which part. A reasonable split is that you address movement, strength and walking, and the occupational therapist addresses the task and the environment, such as daily activities, home set up and adaptive equipment."
+ },
+ {
+  "id": 132,
+  "area": "skills",
+  "front": "When do you bring in a speech-language pathologist or a social worker?",
+  "back": "Speech-language pathologist: coughing during meals, swallowing concerns, or aphasia making it hard to follow instructions, rather than guessing. Social worker: finances, housing, caregiver strain, access to community programs, and safety concerns such as abuse or neglect."
+ },
+ {
+  "id": 133,
+  "area": "skills",
+  "front": "What are the three kinds of referral trigger?",
+  "back": "Safety: red flags, unstable vital signs, new neurological deficit, suspected fracture, infection signs, mental health crisis. Scope: a need outside physiotherapy, such as swallowing assessment, medication change or housing. Progress: no improvement after a reasonable trial, or the client is getting worse."
+ },
+ {
+  "id": 134,
+  "area": "skills",
+  "front": "How do you describe referral urgency in plain words?",
+  "back": "Emergent means now, by ambulance or the emergency department. Urgent means the same day or within a day or two. Routine means a standard letter or call. Examiners like a clear statement of how fast, so always say which one you mean."
+ },
+ {
+  "id": 135,
+  "area": "skills",
+  "front": "What four questions should a good referral answer?",
+  "back": "Who is this person, what do I think is going on, what do I need from you, and by when. Add the client's consent. Say the reason as a sentence that stands alone, naming the person, the finding, the gap and the receiving role."
+ },
+ {
+  "id": 136,
+  "area": "skills",
+  "front": "What do you say about privacy and consent when sharing client information in a referral?",
+  "back": "Sharing within the circle of care is generally permitted, but still tell the client who you are contacting and why, and follow your province's rules and your employer's policy. For people outside the usual team, such as an employer or insurer, get the client's consent and share only what is needed."
+ },
+ {
+  "id": 137,
+  "area": "skills",
+  "front": "What does SBAR stand for, and what goes in each part?",
+  "back": "Situation: who you are, who the client is, the problem now. Background: relevant history, medications, recent events, baseline function. Assessment: what you found and what you think it means, with vital signs and key tests. Recommendation: what you need, how soon, and what you will do while waiting."
+ },
+ {
+  "id": 138,
+  "area": "skills",
+  "front": "What pattern makes a spoken SBAR strong, and how long should it take?",
+  "back": "Name a concern, give numbers, state an action already taken, and end with a closed question or clear request. Practise until it takes under a minute. The same four parts apply between shifts, to a rehabilitation assistant, or in a written discharge summary a stranger could follow."
+ },
+ {
+  "id": 139,
+  "area": "skills",
+  "front": "What should you bring to a case conference, and what is a good report length?",
+  "back": "Report in one or two minutes, then listen. Bring the client's current function against baseline, a short list of goals the client cares about, and what you need from others. Propose shared goals and a discharge date range. A shared plan has named owners and review dates."
+ },
+ {
+  "id": 140,
+  "area": "skills",
+  "front": "What do you do if two professionals give conflicting advice, such as walk as much as possible versus limit weight bearing?",
+  "back": "Say the conflict aloud and resolve it with the person who wrote the order, because the client suffers when advice conflicts. Clarify the precise instruction, document the resolution, and tell the client one clear message. Do not simply pick the one you prefer."
+ },
+ {
+  "id": 141,
+  "area": "skills",
+  "front": "What can and cannot be delegated to a physiotherapist assistant or rehabilitation assistant?",
+  "back": "You assess, decide what is safe to delegate, give clear instructions, check results, and stay accountable. Good candidates are stable clients with predictable tasks like supervised walking or an established home program. The assistant does not assess, interpret findings or change the plan; clients with changing conditions or new red flags stay with you."
+ },
+ {
+  "id": 142,
+  "area": "skills",
+  "front": "What should a spoken delegation statement include?",
+  "back": "What is delegated, the technique you showed, the stop signs to watch, an instruction to report them to you at once, and when you will review progress. Name what you keep, such as reassessing balance. Also say who covers when you are away, since supervision includes being reachable."
+ },
+ {
+  "id": 143,
+  "area": "skills",
+  "front": "How do you work with family and caregivers in a spoken answer?",
+  "back": "With the client's consent, ask what they have noticed, teach what to watch for, and show how to help without taking over. Watch for caregiver strain and offer safer techniques and social work support. Use a qualified interpreter if needed and teach back to confirm they understand."
+ },
+ {
+  "id": 144,
+  "area": "skills",
+  "front": "What sequence do you describe for a disagreement with a colleague about a client?",
+  "back": "Clarify what they are seeing, speak privately, use facts such as pain score, vital signs and medication timing, involve a supervisor or physician if needed, and document. Never argue in front of the client. Keep client safety first, and propose a short trial or joint assessment if possible."
+ },
+ {
+  "id": 145,
+  "area": "skills",
+  "front": "What is your duty if a colleague acts unsafely?",
+  "back": "Raise it first with the person if that is safe and appropriate. If the risk is serious or continues, report it to the supervisor and, when required, to the regulator. Do not ignore it, and do not gossip about it. Client safety and your professional duty come first."
+ },
+ {
+  "id": 146,
+  "area": "skills",
+  "front": "How should you advocate for a client in the Oral Section?",
+  "back": "Make sure the client's voice and needs are heard, using facts, not feelings. Example: two falls this month and living alone mean high risk, so recommend delaying discharge until community care starts. If a competent client chooses a risk, explain it, document, offer alternatives and support the choice safely."
+ },
+ {
+  "id": 147,
+  "area": "skills",
+  "front": "What are the three practical steps for closing the loop?",
+  "back": "Confirm receipt, for example phone the clinic that afternoon to check the referral arrived. Set a follow up time, such as calling again Friday if you have not heard. Tell the client what happens next and when to seek emergency help. When results arrive, update the plan and inform everyone who needs to know."
+ },
+ {
+  "id": 148,
+  "area": "skills",
+  "front": "What should you record when documenting collaboration?",
+  "back": "Who you spoke to, when, what you said, what they said, what was agreed, and who will do what. Record the client's consent for sharing information, date and sign the entry, and note the time of urgent calls. Be specific: called the physician at 14:10, not doctor notified."
+ },
+ {
+  "id": 149,
+  "area": "skills",
+  "front": "What five parts make a quick collaboration statement under time pressure, and how do you end the answer?",
+  "back": "Who, why, how fast, what I will do meanwhile, and how I will check back. Say what you will actually do: phone, write, meet or send a summary. End by returning to the client: explain this to her and check she agrees with the plan."
+ },
+ {
+  "id": 150,
+  "area": "skills",
+  "front": "How do you answer if the examiner asks what you would do if the physician disagrees with you?",
+  "back": "Listen, share your findings and reasoning, ask what they are seeing, and keep client safety first. If disagreement stays, follow your professional judgment on matters within physiotherapy, and escalate or seek advice for matters beyond it. Keep the tone respectful and document the discussion."
+ },
+ {
+  "id": 151,
+  "area": "skills",
+  "front": "How should you divide the 15 minutes of an Oral Section case?",
+  "back": "About 2 minutes to read and plan, then roughly 4 minutes for question 1, 4 for question 2, and 3 to 3.5 for question 3. That leaves about 2 minutes spare for a pause, a recovery or a closing sentence."
+ },
+ {
+  "id": 152,
+  "area": "skills",
+  "front": "What speaking pace should you aim for in the Oral Section, and why?",
+  "back": "Aim for about 130 words per minute. It is slower than nervous conversation and clear enough for an examiner to follow detail. At that pace a four-minute answer is about 520 words and a three-minute answer about 390 words."
+ },
+ {
+  "id": 153,
+  "area": "skills",
+  "front": "Roughly how many words will you say across a whole 15-minute case?",
+  "back": "About 1,400 to 1,600 words if you speak steadily for eleven to twelve minutes. That is more than most candidates expect, but less than you will be tempted to say if you try to include everything you know."
+ },
+ {
+  "id": 154,
+  "area": "skills",
+  "front": "What is a sign that you are speaking too fast under nerves?",
+  "back": "Finishing early at around 170 words per minute with points left unsaid. Practise holding 130. Record yourself reading a page for one minute, count the words, and learn what your own pace feels like."
+ },
+ {
+  "id": 155,
+  "area": "skills",
+  "front": "What is the risk of speaking too slowly in an Oral Section answer?",
+  "back": "At about 90 words per minute you may run out of time before question 3. Pausing to search for words costs credit. Use a short bridge sentence while you think, then keep moving at a steady 130."
+ },
+ {
+  "id": 156,
+  "area": "skills",
+  "front": "What should you do in the first two minutes of a case?",
+  "back": "Read the Client Profile, then the Scenario, then all three questions before planning anything. Look for safety findings, decoys, numbers to interpret, and life details that shape the plan. Then jot short anchor words per question."
+ },
+ {
+  "id": 157,
+  "area": "skills",
+  "front": "Why read all three questions before you start planning?",
+  "back": "Questions follow the order of an encounter, and later ones can add new information. Seeing all three lets you decide what each answer must cover, so you do not give away question 3 material while answering question 1."
+ },
+ {
+  "id": 158,
+  "area": "skills",
+  "front": "How should you use the Notes tool during a case?",
+  "back": "Write a few anchor words per question, not full sentences. Notes are for you alone and are not marked. Add new thoughts while you speak, so a point for question 3 is saved in two words and not held in memory."
+ },
+ {
+  "id": 159,
+  "area": "skills",
+  "front": "Why avoid typing full sentences into the Notes tool?",
+  "back": "Full sentences eat planning time and tempt you to read aloud instead of speak. Anchor words such as impression, alternatives, red flags and first tests let you find your place mid-answer and carry on."
+ },
+ {
+  "id": 160,
+  "area": "skills",
+  "front": "Why say the question number aloud when you begin each answer?",
+  "back": "Examiners mark each question against its own response key. Saying 'For question one' tells them where to credit your points, and it keeps you inside the question you are answering."
+ },
+ {
+  "id": 161,
+  "area": "skills",
+  "front": "What happens if you give treatment details while answering an assessment question?",
+  "back": "The examiner marking that question has an assessment checklist and will not tick treatment points. Early information under the wrong question may not be credited later, and you may have little left to say when the right question arrives."
+ },
+ {
+  "id": 162,
+  "area": "skills",
+  "front": "What is signposting, and what is a simple example?",
+  "back": "Signposting means telling the listener where you are going before you go there. For example: 'I will cover three things: my impression, what I need to rule out, and what I would test first.' It helps you and the examiner."
+ },
+ {
+  "id": 163,
+  "area": "skills",
+  "front": "Why give a number when you signpost, such as 'three priorities'?",
+  "back": "A number tells the examiner what to expect and tells you when you are finished. If you promised three and notice you have given two, you catch the gap while you can still fix it."
+ },
+ {
+  "id": 164,
+  "area": "skills",
+  "front": "What three-part sentence builds strong reasoning in an oral answer?",
+  "back": "Say what you will do, what in this case makes you do it, and what it protects or decides. For example: 'I would screen for red flags because she has night pain that does not change with position, before I load the area.'"
+ },
+ {
+  "id": 165,
+  "area": "skills",
+  "front": "Which linking phrases show your reasoning aloud?",
+  "back": "Use 'because', 'which means', 'so that', 'given that', 'that would change my plan by', and 'the reason I choose this first is'. A run of actions with none of these words is a list, and listing alone scores lower."
+ },
+ {
+  "id": 166,
+  "area": "skills",
+  "front": "What is the first thing to do when you go blank mid-answer?",
+  "back": "Stop and breathe once, which costs about two seconds. Then re-read the question on screen, check your anchor words in Notes, and return to the most worrying case finding. Do not apologize or announce that you forgot."
+ },
+ {
+  "id": 167,
+  "area": "skills",
+  "front": "What general structure fits almost any clinical question if you are stuck?",
+  "back": "Say what you need to know, what could go wrong, what you would do first, and how you would check it worked. It is a fallback that keeps you saying something useful while you recover your place."
+ },
+ {
+  "id": 168,
+  "area": "skills",
+  "front": "How should you correct yourself if you misspeak?",
+  "back": "Correct it once, cleanly: 'Let me correct that. I meant to say the left side.' Do not dwell on it. Finish the sentence, take a breath and carry on to the next point."
+ },
+ {
+  "id": 169,
+  "area": "skills",
+  "front": "What can you add if an answer ends with time to spare?",
+  "back": "Add a safety net, such as stopping and referring if symptoms worsen and documenting that. Add a reassessment statement with the same outcome measure, or a short summary. Do not repeat yourself, and keep each addition tied to the case."
+ },
+ {
+  "id": 170,
+  "area": "skills",
+  "front": "What does it mean if the examiner tells you to re-read the question?",
+  "back": "It is the only redirection an examiner may give, and it usually means you have drifted to a different question or point. It does not mean failure. Say thank you, re-read slowly, and restart with a clean sentence."
+ },
+ {
+  "id": 171,
+  "area": "skills",
+  "front": "How do you restart after being told to re-read the question?",
+  "back": "Go back to the on-screen question, paying attention to the verb and the topic. Then say something like 'To answer the question directly, the main priority is...' and continue. Do not defend your earlier answer or apologize at length."
+ },
+ {
+  "id": 172,
+  "area": "skills",
+  "front": "What spoken skeleton suits an Assessment and Diagnosis question?",
+  "back": "Evidence, impression, alternatives, tests, decision. Say 'My working impression is X, based on A, B and C. Alternatives to rule out are Y and Z. Red flags I would screen for are... My first tests would separate X from Y.'"
+ },
+ {
+  "id": 173,
+  "area": "skills",
+  "front": "What spoken skeleton suits a Care Planning question?",
+  "back": "Goals, then actions, then checking. State goals agreed with the client, first-line interventions with dose and progression and why, how you will measure progress, when you reassess, and what would make you change the plan or refer."
+ },
+ {
+  "id": 174,
+  "area": "skills",
+  "front": "What should the answer to a Client Safety and Client-Centred Care question open with?",
+  "back": "Start with the safety issues specific to this client, then consent and the person's own priorities. Name precautions, monitoring and stop rules, and what you would say aloud to the client before you begin."
+ },
+ {
+  "id": 175,
+  "area": "skills",
+  "front": "How do you recognize which type of question 3 you have been asked?",
+  "back": "Look at the verb and topic. It will be Professional Responsibilities, Collaboration, Communication or Practice Management. Then use that type's skeleton, so you answer the domain asked and not a clinical topic you find more comfortable."
+ },
+ {
+  "id": 176,
+  "area": "skills",
+  "front": "What is the spoken skeleton for a Professional Responsibilities question 3?",
+  "back": "State the duty, who it is owed to, what you do now, and what you document. Keep it tied to the case, naming the specific client, person or party involved, and say you would follow your own regulator's requirements."
+ },
+ {
+  "id": 177,
+  "area": "skills",
+  "front": "What is the spoken skeleton for a Collaboration question 3?",
+  "back": "Say who is involved, what you share, when, how, and who is responsible for what. Add that you would share only what is needed with consent, and that you would document what was communicated and agreed."
+ },
+ {
+  "id": 178,
+  "area": "skills",
+  "front": "What is the common error of ending an answer with 'I would refer'?",
+  "back": "It stops short of the marks. Also say why you would refer, to whom, how urgently, and what you would tell the client. Add that you would document the referral and any information you sent."
+ },
+ {
+  "id": 179,
+  "area": "skills",
+  "front": "What delivery error is it to give a textbook answer that ignores the Scenario?",
+  "back": "It is a generic answer that could fit any client. The Scenario usually hides something, such as a request to bend a rule or a family member answering for the client. Tie every action to a case detail."
+ },
+ {
+  "id": 180,
+  "area": "skills",
+  "front": "What is a good weekly practice progression for the Oral Section?",
+  "back": "Week one, practise only the two-minute plan using anchor words. Week two, one four-minute answer at a time, recorded. Week three, full 15-minute cases on the clock. Then practise with a partner who says only 're-read the question'."
+ },
+ {
+  "id": 181,
+  "area": "skills",
+  "front": "What should you track when you record a practice answer?",
+  "back": "Words per minute, signposts, linking words such as 'because', and whether you answered the question asked. Record at least one answer a week, and fix one habit per session, starting with your weakest question type."
+ },
+ {
+  "id": 182,
+  "area": "skills",
+  "front": "What is the usual frame for a Communication question 3?",
+  "back": "Set the scene, open with purpose and permission, share information in small pieces in plain words, respond to emotion before facts, check understanding, agree next steps, and document. Adapt it to a child, interpreter or virtual visit."
+ },
+ {
+  "id": 183,
+  "area": "skills",
+  "front": "What is a useful phrase to open a teaching moment with a client?",
+  "back": "'I am going to cover three things today. If I use a word that does not make sense, please stop me.' It states a plan and gives the client permission to interrupt, which many will not take unless offered."
+ },
+ {
+  "id": 184,
+  "area": "skills",
+  "front": "Why is a family member a poor substitute for a qualified interpreter?",
+  "back": "They may leave out information, add their own view, feel embarrassed, or be put in a role that harms the relationship. Children should not interpret. Book a qualified interpreter and speak to the client, not the interpreter."
+ },
+ {
+  "id": 185,
+  "area": "skills",
+  "front": "What should you say about interpreters when the case involves a language barrier?",
+  "back": "Say you would book a qualified interpreter before the visit, speak to the client directly, keep sentences short with a pause after each, and ask the interpreter to flag anything that does not translate well."
+ },
+ {
+  "id": 186,
+  "area": "skills",
+  "front": "How do you offer an interpreter to a client who speaks some English?",
+  "back": "Ask about preference, not just ability: 'Would you prefer to have an interpreter for today's visit? It is free for you.' Many people say they are fine and then miss important detail."
+ },
+ {
+  "id": 187,
+  "area": "skills",
+  "front": "What is teach-back, and who is it testing?",
+  "back": "Teach-back asks the client to explain the plan in their own words. It tests how well you explained, not the learner. Frame it kindly: 'I want to be sure I explained this clearly. Can you tell me the plan?'"
+ },
+ {
+  "id": 188,
+  "area": "skills",
+  "front": "How do you earn credit for teach-back in an oral answer?",
+  "back": "Do not just say 'I would use teach-back'. Give the exact question, name the content you would check, and say what you would do if the answer is incomplete, such as re-explaining with a demonstration."
+ },
+ {
+  "id": 189,
+  "area": "skills",
+  "front": "What does plain language mean when explaining a diagnosis?",
+  "back": "Short sentences, everyday words and one idea at a time, with the most useful point first. For example, say 'irritation of a nerve in your lower back that sends pain down your leg' and not 'lumbar radiculopathy'."
+ },
+ {
+  "id": 190,
+  "area": "skills",
+  "front": "Why use a blame-free phrase when a client did not do their exercises?",
+  "back": "Blame damages trust and hides barriers. Say 'I may not have explained this clearly last time. Can we go through it again?' Then ask open questions about what makes it hard at home, and agree one or two small steps."
+ },
+ {
+  "id": 191,
+  "area": "skills",
+  "front": "How should you respond when a client is upset or emotional while you share news?",
+  "back": "Respond to the emotion before the facts: 'I can see this is hard to hear. Take your time.' Then share information in small pieces, check understanding, and agree next steps at their pace."
+ },
+ {
+  "id": 192,
+  "area": "skills",
+  "front": "What should you check first in a virtual care visit?",
+  "back": "Confirm the client's identity and physical location so you can send help in an emergency, and a backup phone number if the connection fails. Check privacy, who else is in the room, and consent for the virtual format."
+ },
+ {
+  "id": 193,
+  "area": "skills",
+  "front": "What is the safe order when safety, regulator rules and employer wishes pull in different directions?",
+  "back": "Client safety and best interests come first, your regulator's rules second, and the wishes of an employer, funder or schedule after that. Say so aloud, protect the client, and speak to the right person."
+ },
+ {
+  "id": 194,
+  "area": "skills",
+  "front": "How do you handle an overloaded day when asked a caseload question?",
+  "back": "Sort by risk first, who could be harmed by delay or shortening. Then by function, such as surgery or return to work dates. Then find efficiency without lowering quality, such as group classes or clear written home programs."
+ },
+ {
+  "id": 195,
+  "area": "skills",
+  "front": "How should a waitlist be triaged?",
+  "back": "Review each referral on arrival and sort by urgency and risk, not by who called first. Use written criteria such as red flags, recent surgery or fracture windows, and loss of function. Check on waiting clients and give self-management advice."
+ },
+ {
+  "id": 196,
+  "area": "skills",
+  "front": "What should you tell a client who is waiting for care?",
+  "back": "Give an honest estimate of the wait, brief self-management advice, a number to call if symptoms worsen, and options such as group or virtual care. Refer elsewhere if you cannot see them within a safe time."
+ },
+ {
+  "id": 197,
+  "area": "skills",
+  "front": "Which tasks can be delegated to a physiotherapist assistant, and which cannot?",
+  "back": "Well-defined tasks for a stable client, such as supervised exercise or an established program, may be delegated. Assessment, diagnosis, planning, changing the plan, discharge and care of unstable clients stay with the physiotherapist, who remains accountable."
+ },
+ {
+  "id": 198,
+  "area": "skills",
+  "front": "What should you do if a piece of equipment fails a safety check?",
+  "back": "Remove it from use, label it clearly out of service, report it to your manager the same day, and record it in the equipment log. Offer the client a safe alternative so the care plan continues."
+ },
+ {
+  "id": 199,
+  "area": "skills",
+  "front": "What is the correct order of response to a client incident such as a fall?",
+  "back": "Care for the person and make the area safe, then tell the client honestly what happened and apologize without blaming. Document facts in the chart, file the incident report separately, and notify your manager."
+ },
+ {
+  "id": 200,
+  "area": "skills",
+  "front": "How do you respond when a client asks for a receipt for a date or service that did not occur?",
+  "back": "Decline politely and keep to billing integrity: bill only for services actually provided, by the person who provided them. Say 'I can only issue it for the date and service I provided,' and help find lawful options."
+ },
+ {
+  "id": 201,
+  "area": "pro",
+  "front": "What is the main purpose of a provincial physiotherapy regulatory body, often called a college?",
+  "back": "Its purpose is to protect the public. It decides who may use the title physiotherapist or physical therapist, sets standards, receives complaints, investigates and disciplines. It serves the public, not the profession, and its rules are the ones you follow in practice."
+ },
+ {
+  "id": 202,
+  "area": "pro",
+  "front": "What is CAPR's role, and which two national documents matter most for ethics answers?",
+  "back": "CAPR, the Canadian Alliance of Physiotherapy Regulators, is the national alliance of regulators and runs the CPTE. Two documents matter here: the Code of Ethical Conduct and Core Professional Values, and the Model Standards of Practice. Speak in their spirit without reciting them."
+ },
+ {
+  "id": 203,
+  "area": "pro",
+  "front": "What can you say when a case touches regulation and you are unsure of the exact rule?",
+  "back": "Say you would follow the standards and code of conduct set by your provincial regulator, and if unsure what applied, you would contact the regulator or review its practice guidance before acting. Never quote a rule number. Say requirements vary by province and you would check your own."
+ },
+ {
+  "id": 204,
+  "area": "pro",
+  "front": "Name the core values of the national code that you can use to organize an ethics answer.",
+  "back": "Client-centred care, respect for autonomy, integrity and honesty, accountability, competence, and fairness and justice. Name the ones in tension in the case, then say what you would do. Using these in your own words shows examiners the reasoning behind your decision."
+ },
+ {
+  "id": 205,
+  "area": "pro",
+  "front": "What is a simple spoken structure for an ethical question?",
+  "back": "Name the issue, name the values in tension, say what you would do first, then say how you would document and follow up. Do not pick a side too early. Say the competing considerations aloud, then decide. Examiners listen for reasoning, not only the conclusion."
+ },
+ {
+  "id": 206,
+  "area": "pro",
+  "front": "What is the difference between scope of practice and competence?",
+  "back": "Scope is what the profession is legally and ethically allowed to do. Competence is what you personally can do safely right now. A task can be in the profession's scope yet outside your competence. Both must be satisfied before you act, and you should say so."
+ },
+ {
+  "id": 207,
+  "area": "pro",
+  "front": "A case asks you to perform a technique you have not been trained in. What do you say?",
+  "back": "Acknowledge the limit, protect the client, get help, and keep the client informed. For example: the technique is outside my current training, so I would not perform it. I would explain why, and refer to a competent colleague or arrange supervision while I build the skill."
+ },
+ {
+  "id": 208,
+  "area": "pro",
+  "front": "A task such as ordering imaging may or may not be in your scope depending on province. What do you say?",
+  "back": "Do not guess. Say you would check whether it falls in your scope in your province and whether conditions or added training apply. If it is not permitted, communicate with the physician or nurse practitioner and explain the reason for the request so the client still gets what they need."
+ },
+ {
+  "id": 209,
+  "area": "pro",
+  "front": "What are the three required features of valid consent?",
+  "back": "Consent must be informed, voluntary and given by someone capable of giving it. It can be withdrawn at any time. Treat it as an ongoing process, not a single signature, and mention checking it again whenever the plan changes or something new is proposed."
+ },
+ {
+  "id": 210,
+  "area": "pro",
+  "front": "What must a client be told for consent to be informed?",
+  "back": "What you propose and why, the expected benefits, the common and serious risks, the alternatives including doing nothing, and that they may say no without losing care. Use plain language. Many cases hinge on one missing piece, so state each part aloud."
+ },
+ {
+  "id": 211,
+  "area": "pro",
+  "front": "Give a strong spoken consent statement before assessing a client's shoulder.",
+  "back": "Before assessing, I would explain what I plan to do and why, describe any discomfort she might feel, tell her she can stop me at any time, and ask if she is comfortable to proceed. I would use an interpreter if she prefers another language, and document her consent."
+ },
+ {
+  "id": 212,
+  "area": "pro",
+  "front": "When is implied consent enough, and when do you need explicit consent?",
+  "back": "Implied consent can cover routine, low-risk actions, such as taking a pulse after the client has come for assessment. Anything with more risk, undressing, or touch to sensitive areas calls for explicit consent. When in doubt in an exam answer, state that you would ask."
+ },
+ {
+  "id": 213,
+  "area": "pro",
+  "front": "A client says stop during treatment. What do you do?",
+  "back": "You stop immediately, check on how the client is, and talk it through. Consent can be withdrawn at any time, and respecting that is not optional. Afterwards, explore the reason, adjust the plan if appropriate, and document the withdrawal and the discussion."
+ },
+ {
+  "id": 214,
+  "area": "pro",
+  "front": "What do you say if a student wants to observe a client's treatment?",
+  "back": "Ask the client for permission before the student is present, explain who the student is and their role, and say the client can refuse without any effect on their care. If the client declines, the student does not observe. Document the consent or refusal."
+ },
+ {
+  "id": 215,
+  "area": "pro",
+  "front": "Whose property is health information, and how should it be handled?",
+  "back": "Health information belongs to the client. Collect only what you need, use it for the purpose it was collected, store it securely, and share it only with consent or when the law allows or requires it. Follow the privacy law that applies in your setting."
+ },
+ {
+  "id": 216,
+  "area": "pro",
+  "front": "Name practical habits that protect client privacy in a clinic.",
+  "back": "Hold conversations out of earshot, turn screens away from view, use encrypted or approved channels for email and messaging, keep client details off personal devices unless approved, and dispose of records securely. Naming two or three concrete habits sounds more credible than saying you protect privacy."
+ },
+ {
+  "id": 217,
+  "area": "pro",
+  "front": "You email a report to the wrong person. What is the sequence of response?",
+  "back": "Act quickly to limit harm, such as asking the recipient to delete it. Notify the client, report as your employer and the law require, document what happened, and review how it occurred so it does not repeat. Be honest and prompt at each step."
+ },
+ {
+  "id": 218,
+  "area": "pro",
+  "front": "What qualities should a clinical record have?",
+  "back": "It should be accurate, timely, legible, and complete enough that another physiotherapist could continue care. Record findings, what you did, what the client said and agreed, advice given, consent, and the plan. Records protect both the client and you."
+ },
+ {
+  "id": 219,
+  "area": "pro",
+  "front": "How do you correct an error in a record, or add a missed entry?",
+  "back": "Never alter a record to hide something or erase an error. Correct with a visible correction that shows the original entry. A missed entry is added as a late entry, clearly dated as late. Honest, traceable records are a core integrity expectation."
+ },
+ {
+  "id": 220,
+  "area": "pro",
+  "front": "What spoken sentence covers documentation when a case mentions it?",
+  "back": "I would document the objective findings, the client's goals, the plan we agreed on, the advice I gave including the advice I gave on warning signs and when to seek urgent care, and that consent was obtained, and I would do it as soon as practical after the visit."
+ },
+ {
+  "id": 221,
+  "area": "pro",
+  "front": "Who must report a child who may be in need of protection, and how certain must they be?",
+  "back": "Everyone, including health professionals, in every province and territory. You need reasonable grounds to suspect, not proof. You report to the child protection authority without delay, do not investigate it yourself, and do not wait for certainty. The authority investigates."
+ },
+ {
+  "id": 222,
+  "area": "pro",
+  "front": "What is a spoken line for a suspected child protection concern?",
+  "back": "If I had reasonable grounds to suspect a child was being harmed or neglected, I would report to the child protection agency without delay. I would not investigate it myself, and I would not wait for certainty. I would document what I observed and told them."
+ },
+ {
+  "id": 223,
+  "area": "pro",
+  "front": "A capable adult client discloses intimate partner violence. What is the usual approach?",
+  "back": "Respect her wishes and autonomy, make sure she knows about supports and safety planning, and document carefully. There is usually no duty to report a capable adult to police. If provincial law required reporting, such as for a vulnerable adult in care, you would do so."
+ },
+ {
+  "id": 224,
+  "area": "pro",
+  "front": "Why must you be careful about stating adult abuse reporting rules?",
+  "back": "Rules for adults vary more across provinces than for children. Some require reports for vulnerable adults or residents of care facilities, and others do not. Describe the principle, say you would confirm the requirement in your own province, and still offer support and referral."
+ },
+ {
+  "id": 225,
+  "area": "pro",
+  "front": "A colleague's practice puts clients at risk. What are the steps?",
+  "back": "Start with the client's immediate safety. Where safe and appropriate, speak directly to the colleague. If the concern is serious, repeats, or cannot be raised directly, take it to your manager or the regulator. Document facts, not opinions."
+ },
+ {
+  "id": 226,
+  "area": "pro",
+  "front": "Do regulators expect members to report serious concerns about another regulated professional?",
+  "back": "In most provinces, yes. Regulators expect members to report serious concerns about another regulated professional's conduct or competence when clients are at risk. Say you would check your own regulator's requirements, and that protecting the public takes priority over loyalty to a colleague."
+ },
+ {
+  "id": 227,
+  "area": "pro",
+  "front": "Two duties conflict: privacy and mandatory reporting. How do you answer?",
+  "back": "Identify each duty, say which one the law requires you to follow, and limit disclosure to what is necessary. Share only what the report needs, with the proper authority. Tell the client what you are doing and why, unless that would put someone at risk."
+ },
+ {
+  "id": 228,
+  "area": "pro",
+  "front": "When no law requires reporting but you are worried, can you share information?",
+  "back": "Generally you need the client's consent. An exception exists when there is a serious and imminent risk of harm to the client or another person. Then disclose the minimum necessary to the appropriate party and document your reasoning. If unsure, consult before acting unless delay is dangerous."
+ },
+ {
+  "id": 229,
+  "area": "pro",
+  "front": "What is a conflict of interest?",
+  "back": "It exists when your personal, financial or professional interests could, or could appear to, influence your judgment about a client. Examples include recommending a product for commission, referring to a clinic you own without saying so, or treating a close family member."
+ },
+ {
+  "id": 230,
+  "area": "pro",
+  "front": "What is the pattern for handling a conflict of interest?",
+  "back": "Avoid the conflict where you can, disclose it when you cannot, let the client decide with full information, and put the client's interest first. For example: I would tell her I have a financial interest in this brace, explain other options at other prices, and document the disclosure."
+ },
+ {
+  "id": 231,
+  "area": "pro",
+  "front": "Why is the professional boundary the physiotherapist's responsibility?",
+  "back": "Physiotherapy involves touch, undressing and trust, which creates a power imbalance. Because you hold the power, you are responsible for maintaining the boundary, whatever the client does. Name the power imbalance briefly when a case involves a boundary, then describe your response."
+ },
+ {
+  "id": 232,
+  "area": "pro",
+  "front": "Is a sexual or romantic relationship with a current client ever acceptable?",
+  "back": "Never. A sexual relationship with a current client is never acceptable. A relationship with a former client is also a serious risk, and regulators set their own rules on waiting periods and conditions, so state that you would check your regulator and not quote any number of months."
+ },
+ {
+  "id": 233,
+  "area": "pro",
+  "front": "A client shows romantic interest in you. What do you say you would do?",
+  "back": "Stay calm, restate the professional nature of the relationship, and document the event. Tell your supervisor if needed, and consider transferring care if the relationship cannot stay professional. Keep the client's dignity and continued access to care in view throughout."
+ },
+ {
+  "id": 234,
+  "area": "pro",
+  "front": "What is a dual relationship, and how do you manage it?",
+  "back": "It arises when you have another role with a client, such as neighbour, coach, employee or friend. It is not always avoidable, especially in small communities. Name the dual role to the client, set clear limits, protect confidentiality, and move the client to another therapist if objectivity or comfort is lost."
+ },
+ {
+  "id": 235,
+  "area": "pro",
+  "front": "A client offers a gift card to thank you. What do you say?",
+  "back": "I would thank her warmly, decline the gift card because of its value, and explain that the best thanks is her recovery. Small tokens, like a card or baked goods shared with the team, are usually fine under employer policy. Check that policy, and document anything unusual."
+ },
+ {
+  "id": 236,
+  "area": "pro",
+  "front": "Why do gifts from suppliers need particular care?",
+  "back": "They can influence your choice of products or devices, which creates a conflict of interest with the client's best interest. Decline gifts with value or expectations attached, follow your employer's policy, and disclose any relationship that could affect recommendations."
+ },
+ {
+  "id": 237,
+  "area": "pro",
+  "front": "What does billing integrity require of a physiotherapist?",
+  "back": "Billing must match what was actually done, by the person who did it, using honest codes. Billing for a service not provided, billing a full session for a short one, or billing physiotherapist time for assistant care are all dishonest. Examiners treat this as a core integrity issue."
+ },
+ {
+  "id": 238,
+  "area": "pro",
+  "front": "A client asks you to change the date or service on a receipt so insurance will pay. What do you say?",
+  "back": "I cannot change a receipt to say something that did not happen. I can offer an accurate receipt and discuss other options, such as a payment plan or checking which services their plan actually covers. Document the request and your response."
+ },
+ {
+  "id": 239,
+  "area": "pro",
+  "front": "A manager pressures you to bill unrealistic hours. What is your response?",
+  "back": "Raise the concern with the manager, document it, and escalate if the pressure continues, including to the regulator if needed. Do not bill for time or services that did not occur. Accurate billing protects clients, insurers and your licence."
+ },
+ {
+  "id": 240,
+  "area": "pro",
+  "front": "What should clients be told about fees?",
+  "back": "Explain fees in advance, including charges for missed appointments or late cancellations, so there are no surprises. Clear fee information before care begins supports informed decision making and trust, and it prevents many billing disputes."
+ },
+ {
+  "id": 241,
+  "area": "pro",
+  "front": "What are the core principles for social media use by a physiotherapist?",
+  "back": "Never post identifiable client information or photos without explicit written consent. Remember a de-identified story can still be recognizable in a small community. Keep personal and professional accounts separate, give no individual clinical advice in public posts, and decline friend requests from current clients."
+ },
+ {
+  "id": 242,
+  "area": "pro",
+  "front": "What is the difference between a near miss and a harmful error?",
+  "back": "A near miss is an event that could have caused harm but did not. A harmful error is one that did cause harm. Both should be reported through your workplace's incident process and reviewed, so the system and your practice can learn from them."
+ },
+ {
+  "id": 243,
+  "area": "pro",
+  "front": "What is the sequence when an error affects a client?",
+  "back": "Attend to the client's safety and get medical help if needed. Tell your supervisor. Disclose honestly and promptly, in person where possible. Apologize sincerely, explain next steps and prevention, document the facts, report through the right channels, then reflect and change your practice."
+ },
+ {
+  "id": 244,
+  "area": "pro",
+  "front": "Does an apology for an error need to assign blame?",
+  "back": "No. An apology is an expression of concern and sorrow for what the client experienced. It does not need to include blame. Pair it with a clear explanation of what happened, what will be done now, and how it will be prevented from happening again."
+ },
+ {
+  "id": 245,
+  "area": "pro",
+  "front": "Give a spoken example of responding to a heat-related skin mark after treatment.",
+  "back": "I would remove the heat, assess the skin, and arrange medical review if needed. I would tell her what happened, say I am sorry, explain how we will care for the area, and report through the incident system. Then I would review my sensation screening before using heat."
+ },
+ {
+  "id": 246,
+  "area": "pro",
+  "front": "What is reflective practice, and how should you describe it?",
+  "back": "It is looking back at what you did, asking what went well and what you would change, and acting on it. Be concrete: name the situation, what you noticed, and one specific change. Avoid vague claims such as saying you always reflect."
+ },
+ {
+  "id": 247,
+  "area": "pro",
+  "front": "Give a short reflective statement an examiner would value.",
+  "back": "Afterwards I would ask what I could have done differently, speak with a mentor, read the current guidance on that condition, and write down one change to my practice. Specific actions show continuing competence, which regulators expect of every member."
+ },
+ {
+  "id": 248,
+  "area": "pro",
+  "front": "An insurer asks for a progress report. What must you do before sending it?",
+  "back": "Obtain the client's informed consent first. Explain what the report will contain, who will read it, and that the client may see it first. Limit it to what the claim needs, such as attendance, functional findings and plan, and document the consent."
+ },
+ {
+  "id": 249,
+  "area": "pro",
+  "front": "A client discloses something about a child's safety and asks you to keep it secret. What do you say?",
+  "back": "Be honest that you cannot promise secrecy, because if you have reasonable grounds to believe a child is at risk, the law requires a report and overrides the request. Speak privately and without judgment, encourage support, report without delay if concern remains, share only what is needed, and document."
+ },
+ {
+  "id": 250,
+  "area": "pro",
+  "front": "What is a six-step frame for answering a professional responsibilities question under time pressure?",
+  "back": "Name the issue in one sentence. Say whose interests and which values are involved. State what you would do right now. State who you would involve, such as the client, supervisor, regulator or authority. State what you would document. State how you would prevent a repeat or reflect."
+ },
+ {
+  "id": 251,
+  "area": "msk",
+  "front": "What is a good opening line for any musculoskeletal case in the Oral Section?",
+  "back": "Say your leading hypothesis first, then what you must rule out: \"My leading hypothesis is X. I must rule out Y, because missing it would harm the client.\" Then walk through safety screen, focused history and examination, function measures, and reassessment."
+ },
+ {
+  "id": 252,
+  "area": "msk",
+  "front": "What spoken loading dose works for muscle, tendon, joint, bone and spine cases?",
+  "back": "Say: \"I will choose a load the client can perform with pain that stays tolerable (mild to moderate for tendon work) and settles within 24 hours, and I will progress by small steps when the response is calm.\" It shows dosage logic and safety in one sentence."
+ },
+ {
+  "id": 253,
+  "area": "msk",
+  "front": "What order should a musculoskeletal answer follow when speaking aloud?",
+  "back": "Red flags, first assessment priorities, usual safety issues, core interventions with dosage logic, outcome measures, then referral triggers. Using the same order every time keeps you organized and lets the examiners hear each marked element."
+ },
+ {
+  "id": 254,
+  "area": "msk",
+  "front": "Which muscle conditions come under MSK.01?",
+  "back": "Muscle strains, contusions, compartment syndrome and rhabdomyolysis. The first two are common and usually managed with graded loading. The last two are emergencies that need urgent medical care, so your red flag screen must be able to separate them."
+ },
+ {
+  "id": 255,
+  "area": "msk",
+  "front": "What red flags suggest compartment syndrome or rhabdomyolysis in a muscle injury?",
+  "back": "Severe pain out of proportion to the injury, a tense swollen limb, pain on passive stretch, numbness, and dark urine after extreme exertion. Any of these means stop the assessment and arrange urgent medical care."
+ },
+ {
+  "id": 256,
+  "area": "msk",
+  "front": "What finding on palpation of a strained muscle suggests a complete tear?",
+  "back": "A palpable gap in the muscle together with marked weakness on resisted testing. State that you would refer a suspected complete tear that may need repair, and avoid loading it aggressively in the meantime."
+ },
+ {
+  "id": 257,
+  "area": "msk",
+  "front": "Why avoid aggressive stretching or massage early after a significant strain or contusion?",
+  "back": "Because of the risk of more bleeding into the tissue and of myositis ossificans, which is bone forming in the muscle. Use relative rest first, then early pain limited movement, rather than forceful stretch or deep massage."
+ },
+ {
+  "id": 258,
+  "area": "msk",
+  "front": "What is the usual progression of interventions for a muscle strain?",
+  "back": "Short relative rest, early pain limited movement, isometric work, progressive concentric and eccentric loading, then sport or job specific work. Move on only when the response is calm and pain settles within 24 hours."
+ },
+ {
+  "id": 259,
+  "area": "msk",
+  "front": "Which outcome measures and referral triggers fit a muscle injury?",
+  "back": "Pain rating, strength testing, range of motion and a function scale suited to the region. Refer for a suspected complete tear needing repair, compartment signs, or no progress in the expected time."
+ },
+ {
+  "id": 260,
+  "area": "msk",
+  "front": "Which conditions are grouped under fascia injuries and disorders, MSK.02?",
+  "back": "Plantar fasciopathy is the classic example, with iliotibial band pain and fascial strain also appearing. Name the condition you suspect, then link your reasoning to the client's load history and footwear."
+ },
+ {
+  "id": 261,
+  "area": "msk",
+  "front": "What red flags would change your plan for a client with heel pain?",
+  "back": "Night pain, unexplained weight loss, fever, trauma, and numbness or burning that suggests a nerve problem such as tarsal tunnel syndrome. Any of these means stop and refer rather than treat as plantar fasciopathy."
+ },
+ {
+  "id": 262,
+  "area": "msk",
+  "front": "What do you assess first in suspected plantar fasciopathy?",
+  "back": "Load history, footwear, standing time at work, body weight changes, palpation at the medial heel, the windlass test, and calf flexibility and ankle dorsiflexion. Say these aloud in that kind of order."
+ },
+ {
+  "id": 263,
+  "area": "msk",
+  "front": "What safety and education points apply to plantar fasciopathy?",
+  "back": "Avoid repeated steroid injection as a first step, avoid intense stretching in a very irritable heel, and explain that the condition is slow to settle. Setting expectations early helps adherence to the plan."
+ },
+ {
+  "id": 264,
+  "area": "msk",
+  "front": "What interventions would you list for plantar fasciopathy?",
+  "back": "Load management, calf and plantar fascia stretching, progressive heel raises, supportive footwear, and an orthosis or taping as short term help. Reassess first step pain and walking tolerance to judge progress."
+ },
+ {
+  "id": 265,
+  "area": "msk",
+  "front": "When do you refer a client with plantar fasciopathy?",
+  "back": "When there is no response after a sensible trial of care, or when a physician needs to consider imaging or injection. Also refer at once for any red flag such as night pain, fever or nerve symptoms."
+ },
+ {
+  "id": 266,
+  "area": "msk",
+  "front": "Which injuries belong under ligament injuries and disorders, MSK.03?",
+  "back": "Ankle sprains, knee ligament injuries, and sprains of the thumb, elbow or neck. Use the Ottawa ankle and knee rules to decide when imaging is needed, and say so aloud."
+ },
+ {
+  "id": 267,
+  "area": "msk",
+  "front": "What red flags after a knee or ankle injury call for imaging or urgent referral?",
+  "back": "Inability to bear weight for four steps, bone tenderness at the rule landmarks, gross instability, a locked knee, and signs of vascular injury after knee dislocation. Stop and refer rather than continue testing."
+ },
+ {
+  "id": 268,
+  "area": "msk",
+  "front": "A knee swells within hours of injury. What does this suggest?",
+  "back": "Bleeding inside the joint, such as an anterior cruciate ligament tear. Follow with a ligament stress examination, where the Lachman test is the most dependable test for that ligament, and screen for fracture."
+ },
+ {
+  "id": 269,
+  "area": "msk",
+  "front": "Which test is the most dependable for the anterior cruciate ligament?",
+  "back": "The Lachman test. Say you would compare with the other knee, and combine the result with the mechanism of injury, how fast the swelling came on, and whether the client could bear weight."
+ },
+ {
+  "id": 270,
+  "area": "msk",
+  "front": "What safety precautions apply when treating a ligament injury early?",
+  "back": "Protect the joint early, avoid stressing a grade III injury, and screen for associated fracture or syndesmosis injury. Mention that you would not apply stress tests aggressively on a very swollen, painful joint."
+ },
+ {
+  "id": 271,
+  "area": "msk",
+  "front": "What is the intervention sequence after a ligament sprain?",
+  "back": "Early protected movement, edema control, balance and proprioception training, strength work, and graded return to sport. Progress by small steps while the joint stays calm and swelling does not increase."
+ },
+ {
+  "id": 272,
+  "area": "msk",
+  "front": "Which outcome measures suit a lower limb ligament injury, and when do you refer?",
+  "back": "Single leg balance, hop tests, a lower limb function scale and swelling measures. Refer for complete rupture in an active client, persistent instability, or suspected fracture."
+ },
+ {
+  "id": 273,
+  "area": "msk",
+  "front": "Which conditions come under tendon injuries and disorders, MSK.04?",
+  "back": "Rotator cuff tendinopathy, lateral elbow tendinopathy, Achilles and patellar tendinopathy, and tendon ruptures. Tell the examiners that you would load the tendon on purpose rather than rest it for long."
+ },
+ {
+  "id": 274,
+  "area": "msk",
+  "front": "What red flags suggest a tendon rupture or something more serious?",
+  "back": "A sudden pop with loss of function, a positive Thompson test, a palpable gap, night pain with systemic features, and signs of inflammatory arthritis in several tendons. Stop and refer for these."
+ },
+ {
+  "id": 275,
+  "area": "msk",
+  "front": "What is the typical symptom pattern of a painful tendon?",
+  "back": "The tendon usually eases with warm up and flares the next day. Ask about this pattern along with pain on load and palpation, strength, and morning stiffness, to support a tendinopathy hypothesis."
+ },
+ {
+  "id": 276,
+  "area": "msk",
+  "front": "What tendon loading progression should you describe?",
+  "back": "Isometric holds to settle pain, then slow heavy resistance, then energy storage work such as hopping or jumping. Keep each stage until pain stays calm and the client tolerates the load the next morning."
+ },
+ {
+  "id": 277,
+  "area": "msk",
+  "front": "What spoken dose can you give for tendinopathy loading?",
+  "back": "\"Three to four sets, slow tempo, three or four times per week, with at least a day between heavy sessions, and pain kept at or below moderate and settled by the next morning.\" This shows clear dosage logic."
+ },
+ {
+  "id": 278,
+  "area": "msk",
+  "front": "What tendon safety rules should you state aloud?",
+  "back": "Do not stretch a tendon across its insertion in an irritable state, and avoid heavy load right after a suspected rupture. Both protect the tendon from compression and further damage while it settles."
+ },
+ {
+  "id": 279,
+  "area": "msk",
+  "front": "When do you refer a client with tendinopathy?",
+  "back": "For a suspected full thickness rupture, failed loading after about twelve weeks of consistent effort, or when a physician is needed for injection or surgery decisions. Mention the outcome measures you would use to show failure to progress."
+ },
+ {
+  "id": 280,
+  "area": "msk",
+  "front": "What injuries are grouped under joint injuries and disorders, MSK.05?",
+  "back": "Dislocations, meniscal tears, labral tears, capsulitis and subluxations. Your pattern includes a distal neurovascular check, recurrence history, and a clear statement of when to send the client for imaging or reduction."
+ },
+ {
+  "id": 281,
+  "area": "msk",
+  "front": "What red flags apply to a joint injury?",
+  "back": "A locked joint, an unreduced dislocation, a hot swollen joint with fever, and neurovascular compromise. A hot joint with fever is an emergency, so stop the assessment and arrange urgent medical care."
+ },
+ {
+  "id": 282,
+  "area": "msk",
+  "front": "What do you check first after a suspected joint dislocation?",
+  "back": "Circulation, sensation and movement distal to the injury. Then ask whether it is a first time or recurrent dislocation, and about age, since younger clients have higher recurrence after a shoulder dislocation."
+ },
+ {
+  "id": 283,
+  "area": "msk",
+  "front": "Should a physiotherapist relocate an acutely dislocated joint?",
+  "back": "Not unless trained and authorized. Say you would send the client for imaging and reduction. Afterward, avoid provocative positions, such as abduction with external rotation for a shoulder, as part of safety advice."
+ },
+ {
+  "id": 284,
+  "area": "msk",
+  "front": "What is the typical presentation of adhesive capsulitis?",
+  "back": "A painful, global loss of both active and passive external rotation of the shoulder. Passive range is limited as well as active, which helps separate it from a rotator cuff problem."
+ },
+ {
+  "id": 285,
+  "area": "msk",
+  "front": "How do you match capsulitis treatment to the client's irritability?",
+  "back": "Work within tolerance. In a high pain stage, use gentle range and education. Stronger stretching comes only as pain settles. Match intensity to irritability, and say you would reassess response after each session."
+ },
+ {
+  "id": 286,
+  "area": "msk",
+  "front": "What is the usual rehabilitation sequence after a joint injury?",
+  "back": "A short period of protection, restoring range, rotator cuff and scapular strengthening for the shoulder, neuromuscular control, and return to activity. Measure with region specific scales, range and apprehension or stability testing."
+ },
+ {
+  "id": 287,
+  "area": "msk",
+  "front": "When do you refer a client with a joint injury?",
+  "back": "For a first time dislocation with a fracture, mechanical locking, repeated instability, or a hot septic joint. State that a hot swollen joint with fever needs same day medical assessment."
+ },
+ {
+  "id": 288,
+  "area": "msk",
+  "front": "Which problems are in bone injuries and disorders, MSK.06?",
+  "back": "Fractures, stress fractures, osteoporosis related fragility fractures and bone tumours. Tell the examiners you would use validated rules such as the Ottawa rules to decide on imaging."
+ },
+ {
+  "id": 289,
+  "area": "msk",
+  "front": "What red flags suggest a pathologic fracture or bone tumour?",
+  "back": "Pain at rest and at night, history of cancer, unexplained weight loss, a fall from a small height in an older adult, deformity, and a new fracture with little force. These need urgent referral."
+ },
+ {
+  "id": 290,
+  "area": "msk",
+  "front": "A runner has focal bone pain after a sudden mileage increase. What should you consider?",
+  "back": "A stress fracture until proven otherwise. Check bone tenderness and pain with percussion or weight bearing, then refer for imaging rather than continuing loading. Explain that missing it risks a complete fracture."
+ },
+ {
+  "id": 291,
+  "area": "msk",
+  "front": "What do you assess first in a suspected fracture?",
+  "back": "Mechanism, bone tenderness, pain with percussion or weight bearing, and neurovascular status. Apply the Ottawa rules or another validated rule to decide whether imaging is required."
+ },
+ {
+  "id": 292,
+  "area": "msk",
+  "front": "What safety points apply after a fracture?",
+  "back": "Respect the healing time and any surgeon precautions on weight bearing. Watch for non-union, infection and complex regional pain syndrome, and refer promptly if signs of any of these appear."
+ },
+ {
+  "id": 293,
+  "area": "msk",
+  "front": "How do you plan exercise for a client with osteoporosis?",
+  "back": "Teach safe loading, balance training, fall prevention and posture work. Avoid forceful spinal flexion and twisting. Say you would also ask whether a bone health review has been done after any fragility fracture."
+ },
+ {
+  "id": 294,
+  "area": "msk",
+  "front": "Which outcome measures and referral triggers suit a bone problem?",
+  "back": "Weight bearing status, range, strength, a timed walk or balance measure, and a fall risk measure. Refer for suspected fracture, delayed healing, signs of complex regional pain syndrome, or a fragility fracture without a bone health review."
+ },
+ {
+  "id": 295,
+  "area": "msk",
+  "front": "Which conditions fall under spine injuries and disorders, MSK.07?",
+  "back": "Mechanical neck and back pain, radiculopathy, stenosis, spondylolisthesis, whiplash and disc problems. Say your red flag screen aloud every time before describing any treatment."
+ },
+ {
+  "id": 296,
+  "area": "msk",
+  "front": "What features signal cauda equina syndrome?",
+  "back": "Saddle numbness, new bladder or bowel change, and bilateral leg symptoms. This is a surgical emergency, so stop the assessment and arrange urgent medical care immediately."
+ },
+ {
+  "id": 297,
+  "area": "msk",
+  "front": "List the other spine red flags to say aloud.",
+  "back": "Progressive neurological loss, fracture after trauma or in osteoporosis, cancer history with unexplained weight loss, infection with fever, and an inflammatory pattern in a young adult with morning stiffness. Each needs medical referral."
+ },
+ {
+  "id": 298,
+  "area": "msk",
+  "front": "What should you screen for before manual technique to the neck?",
+  "back": "Vascular signs such as dizziness, double vision and facial numbness. If present, do not proceed with manual technique and arrange urgent medical assessment. Avoid end range high velocity techniques when risk is unclear."
+ },
+ {
+  "id": 299,
+  "area": "msk",
+  "front": "How do you classify a spine presentation first?",
+  "back": "As non-specific, radicular, or serious. When leg or arm symptoms are present, test myotomes, dermatomes, reflexes and neurodynamic signs. This classification decides whether you treat or refer."
+ },
+ {
+  "id": 300,
+  "area": "msk",
+  "front": "What interventions, outcome measures and referral triggers fit a mechanical back problem?",
+  "back": "Reassurance, stay active, graded exercise in short frequent bouts, mobilization as an adjunct, and work planning. Measure with the Oswestry Disability Index or Patient Specific Functional Scale. Refer for red flags, worsening neurology, or no change after about six weeks."
+ },
+ {
+  "id": 301,
+  "area": "msk",
+  "front": "What is my spoken reasoning pattern for a knee osteoarthritis case, in order?",
+  "back": "State the hypothesis, screen red flags aloud, check range, strength, gait and a thirty second sit to stand, then plan education, strengthening and walking, and reassess in about six weeks. Refer if function falls despite good adherence."
+ },
+ {
+  "id": 302,
+  "area": "msk",
+  "front": "Which red flags make me stop and rethink a suspected degenerative joint case?",
+  "back": "Sudden severe pain, a hot swollen joint, fever, night pain, rapid loss of function and unexplained weight loss. Any of these points away from simple osteoarthritis, so I would stop, screen further and arrange medical review as needed."
+ },
+ {
+  "id": 303,
+  "area": "msk",
+  "front": "How does neurogenic claudication from spinal stenosis behave, and how do I say it aloud?",
+  "back": "Leg symptoms come on with standing or walking and ease with sitting or bending forward. I would say this pattern suggests spinal stenosis, and I would check neurology and plan flexion tolerant positions and graded walking."
+ },
+ {
+  "id": 304,
+  "area": "msk",
+  "front": "What is first line care for hip and knee osteoarthritis, and what dose do I state?",
+  "back": "Education plus exercise. I would say aerobic work most days and strength work two or three days per week, with mild soreness acceptable if it fades within a day, and add weight management and walking aids when relevant."
+ },
+ {
+  "id": 305,
+  "area": "msk",
+  "front": "Which outcome measures can I name for osteoarthritis of the lower limb?",
+  "back": "The Western Ontario and McMaster Universities Osteoarthritis Index, thirty second sit to stand, Timed Up and Go and the six minute walk test. I would pick one self report and one performance measure, then repeat them at reassessment."
+ },
+ {
+  "id": 306,
+  "area": "msk",
+  "front": "What safety points do I raise before exercise in a client with degenerative joint disease?",
+  "back": "Avoid repeated impact in a painful joint at the start, manage fall risk, and consider cardiovascular comorbidity before exercise. I would pace activity and choose loads that keep pain mild and settled by the next day."
+ },
+ {
+  "id": 307,
+  "area": "msk",
+  "front": "When do I refer a client with osteoarthritis?",
+  "back": "Refer when function falls despite good care, when a joint replacement discussion is wanted, or for any red flag such as a hot swollen joint, fever, night pain or rapid decline. I would explain the reason to the client."
+ },
+ {
+  "id": 308,
+  "area": "msk",
+  "front": "Which red flags in a rheumatic case need urgent action?",
+  "back": "A single hot swollen joint with fever, which needs urgent assessment for septic arthritis, a first episode of several swollen joints, eye redness, and skin or bowel symptoms with joint pain. I would stop my plan and arrange medical care."
+ },
+ {
+  "id": 309,
+  "area": "msk",
+  "front": "A young adult has back pain that improves with movement but not rest. What do I suspect?",
+  "back": "An inflammatory pattern such as axial spondyloarthritis, including ankylosing spondylitis. Morning stiffness over an hour supports it. I would say this aloud, avoid labelling it mechanical, and refer promptly for medical assessment."
+ },
+ {
+  "id": 310,
+  "area": "msk",
+  "front": "Why am I careful with the upper neck in long standing rheumatoid arthritis?",
+  "back": "Atlantoaxial instability can occur, so manipulation or end range technique near the upper cervical spine risks cord injury. I would check for neurological signs, avoid forceful techniques there and involve the physician about any concerns."
+ },
+ {
+  "id": 311,
+  "area": "msk",
+  "front": "What do I do for a rheumatic joint during a flare versus a stable period?",
+  "back": "During a flare, use gentle range, pacing, joint protection, splinting where useful, and heat or cold for comfort, and avoid heavy load or stretch. In stable periods, add aerobic and strengthening exercise."
+ },
+ {
+  "id": 312,
+  "area": "msk",
+  "front": "Which outcome measures fit inflammatory arthritis cases?",
+  "back": "The Health Assessment Questionnaire, morning stiffness time and grip strength, plus the Bath Ankylosing Spondylitis indices for axial disease. I would track them over time and share trends with the physician when medication questions arise."
+ },
+ {
+  "id": 313,
+  "area": "msk",
+  "front": "What is my first step with a client who has persistent widespread pain?",
+  "back": "A client centred interview: what the pain means to them, beliefs, fear of movement, sleep, mood, work and past treatment. I would also screen for red flags, depression, suicidal thoughts and opioid use before planning."
+ },
+ {
+  "id": 314,
+  "area": "msk",
+  "front": "A chronic pain client mentions thoughts of self harm. What do I say I will do?",
+  "back": "I would ask directly about thoughts and plans, stay with the client, and arrange urgent help through the physician or crisis services in line with local procedures. I would not carry on with the exercise plan first."
+ },
+ {
+  "id": 315,
+  "area": "msk",
+  "front": "How do I set the exercise dose for a client with chronic pain?",
+  "back": "Start below the flare threshold and increase by small fixed amounts on a schedule, not according to the pain level that day. This graded approach, with pacing, builds tolerance and avoids the boom and bust cycle."
+ },
+ {
+  "id": 316,
+  "area": "msk",
+  "front": "What messages do I avoid with chronic pain clients?",
+  "back": "Avoid promising a cure, relying only on passive treatment, and hurt equals harm messaging. I would explain pain in plain language through pain neuroscience education, stress safe movement and link goals to valued activities."
+ },
+ {
+  "id": 317,
+  "area": "msk",
+  "front": "Which measures can I name for chronic pain outcomes?",
+  "back": "The Patient Specific Functional Scale, the Pain Catastrophizing Scale, step counts and return to valued activities. I would pick measures the client cares about and repeat them to show progress beyond the pain rating alone."
+ },
+ {
+  "id": 318,
+  "area": "msk",
+  "front": "When do I refer a chronic pain client onward?",
+  "back": "Refer to the physician, psychologist or pain program when mood is poor, when the pain pattern changes, or when an interprofessional approach is needed. I would explain that this adds support and does not replace my care."
+ },
+ {
+  "id": 319,
+  "area": "msk",
+  "front": "What red flags do I screen for in a recent lower limb amputation case?",
+  "back": "Wound breakdown, signs of infection, new redness or heat, uncontrolled pain, a contralateral foot at risk, and calf pain or swelling that suggests thrombosis. I would stop and refer for wound, infection or clot concerns."
+ },
+ {
+  "id": 320,
+  "area": "msk",
+  "front": "How do I prevent contractures after a lower limb amputation?",
+  "back": "Avoid long periods with the hip and knee flexed, such as prolonged sitting with a pillow under the knee. I would teach positioning, daily range, and hip extension work, and protect the residual limb from pressure."
+ },
+ {
+  "id": 321,
+  "area": "msk",
+  "front": "What first priorities do I state for a new amputation case?",
+  "back": "Residual limb skin and wound check, volume and shape, hip and knee range, strength, balance, phantom sensation versus phantom pain, the other limb and the home layout. Then I would plan edema control and mobility."
+ },
+ {
+  "id": 322,
+  "area": "msk",
+  "front": "How do I manage edema in a residual limb?",
+  "back": "Use shrinkers or compression bandaging, with positioning, as directed by the team. I would check skin and fit often, teach the client to inspect daily, and refer for wound or infection concerns."
+ },
+ {
+  "id": 323,
+  "area": "msk",
+  "front": "What can help phantom limb pain?",
+  "back": "Desensitization, mirror therapy and graded motor imagery, along with education that phantom sensation is common. I would assess the pain, ask about sleep and mood, and refer to the physician when it is severe or changing."
+ },
+ {
+  "id": 324,
+  "area": "msk",
+  "front": "Which outcome measures do I name for amputee rehabilitation?",
+  "back": "The Amputee Mobility Predictor, Timed Up and Go, Two Minute Walk Test and the Locomotor Capabilities Index. I would choose by the client's current level and repeat them to guide prosthetic decisions with the team."
+ },
+ {
+  "id": 325,
+  "area": "msk",
+  "front": "Why do I check the remaining foot of an amputee client daily?",
+  "back": "The other limb carries more load and often has the same vascular disease or neuropathy, so skin breakdown or ulcers can start unnoticed. I would teach daily inspection, proper footwear and early reporting of any change."
+ },
+ {
+  "id": 326,
+  "area": "msk",
+  "front": "Who do I refer an amputation client to, and for what?",
+  "back": "The prosthetist for socket and componentry, the physician for wound or infection, and the team for mood and psychosocial support. I would say I work as part of an interprofessional team and share findings with consent."
+ },
+ {
+  "id": 327,
+  "area": "msk",
+  "front": "What congenital conditions fall under MSK.12, and which are red flags in infants?",
+  "back": "Developmental hip dysplasia, clubfoot, torticollis, scoliosis and limb differences. In infants, asymmetric skin creases or limited hip abduction and a rigid foot that does not correct need prompt physician referral."
+ },
+ {
+  "id": 328,
+  "area": "msk",
+  "front": "An adolescent has a spinal curve and unusual pain. What do I say?",
+  "back": "Pain is not typical of idiopathic scoliosis, so I would suspect another cause. I would check neurology, note a rapidly progressing curve, and refer promptly to the physician before continuing any exercise plan."
+ },
+ {
+  "id": 329,
+  "area": "msk",
+  "front": "How do I assess a congenital deformity in the first minutes?",
+  "back": "Age, family history, developmental screen, observation, passive range, spine and limb alignment, and whether the deformity is flexible or fixed. A fixed deformity or any neurological sign leads me to refer promptly."
+ },
+ {
+  "id": 330,
+  "area": "msk",
+  "front": "What dose do I state for infant torticollis treatment?",
+  "back": "Short, frequent, play based handling many times daily, with positioning and gentle stretching taught to parents, rather than long sessions. I would handle the infant gently and refer if progress stalls or other signs appear."
+ },
+ {
+  "id": 331,
+  "area": "msk",
+  "front": "What safety rules do I mention for infants and children in casts or braces?",
+  "back": "Follow the physician's orders on casts and braces, check skin under devices, handle infants gently and teach families safe handling and positioning. I would refer promptly for skin breakdown, pain or fit concerns."
+ },
+ {
+  "id": 332,
+  "area": "msk",
+  "front": "What red flags do I screen for in pelvic floor cases?",
+  "back": "Blood in urine, new bowel change, bladder or bowel symptoms with back pain and leg numbness, unexplained weight loss, fever with urinary symptoms and sudden severe pelvic pain. Any of these means referral before treatment."
+ },
+ {
+  "id": 333,
+  "area": "msk",
+  "front": "How do I show consent and dignity in a pelvic floor assessment?",
+  "back": "I would say aloud that I will use a private setting, explain each step, ask permission, offer a chaperone, and stop on request. I would document consent and respect the client's right to decline any part."
+ },
+ {
+  "id": 334,
+  "area": "msk",
+  "front": "What history do I gather in a client with urinary incontinence?",
+  "back": "Bladder and bowel habits, fluid intake, leakage triggers, pain, sexual function and pregnancy history. A bladder diary helps. I would also screen for infection and red flags before starting pelvic floor muscle training."
+ },
+ {
+  "id": 335,
+  "area": "msk",
+  "front": "What dose do I state for pelvic floor muscle training?",
+  "back": "Several short sets of contractions held a few seconds, repeated daily over at least three months, taught correctly first. When pain is the issue, I would stress relaxation as well as contraction."
+ },
+ {
+  "id": 336,
+  "area": "msk",
+  "front": "Which outcome measures do I name for pelvic floor care?",
+  "back": "A bladder diary, pad use, validated incontinence questionnaires and pain scores. I would repeat them at reassessment and refer to a physician if there is no improvement after a good trial or if prolapse needs more care."
+ },
+ {
+  "id": 337,
+  "area": "msk",
+  "front": "Which conditions belong to MSK.14 infectious and inflammatory conditions?",
+  "back": "Septic arthritis, osteomyelitis, discitis, cellulitis, bursitis and reactive arthritis. The key point is to spot infection early, because septic joints and bone infection can damage tissue quickly and need medical care."
+ },
+ {
+  "id": 338,
+  "area": "msk",
+  "front": "What risk factors raise my suspicion of a septic joint?",
+  "back": "Fever, a hot red swollen joint, severe pain with any movement, recent surgery or injection, intravenous drug use, immunosuppression, diabetes and spreading redness. These need same day medical care."
+ },
+ {
+  "id": 339,
+  "area": "msk",
+  "front": "What exact words do I use when I suspect joint infection?",
+  "back": "I would say this is a medical emergency until proven otherwise, so I will stop my assessment and arrange urgent transfer. I would not start exercise or manual therapy on a hot, febrile or rapidly worsening joint."
+ },
+ {
+  "id": 340,
+  "area": "msk",
+  "front": "What are the first priorities for a possible infectious musculoskeletal condition?",
+  "back": "Temperature, vital signs, the skin, joint swelling and whether the client can move the joint at all. I would stop assessing if signs of infection appear and arrange urgent medical care."
+ },
+ {
+  "id": 341,
+  "area": "msk",
+  "front": "How do I rehabilitate after medical treatment of a joint or bone infection?",
+  "back": "Return range, strength and function in graded steps while protecting the area, following the physician's orders. I would track temperature trend, wound status, pain and function, and refer urgently for worsening."
+ },
+ {
+  "id": 342,
+  "area": "msk",
+  "front": "What is the most important red flag for cauda equina syndrome?",
+  "back": "Saddle numbness with new bladder or bowel change and bilateral leg symptoms, often with progressive weakness. This is a surgical emergency, so I would stop and arrange immediate emergency care."
+ },
+ {
+  "id": 343,
+  "area": "msk",
+  "front": "What common orthopedic red flags for fracture do I name aloud?",
+  "back": "Significant trauma, a fall from small height in an older adult, deformity, focal bone tenderness, inability to bear weight, and a fracture with little force. I would use validated rules such as Ottawa to decide on imaging."
+ },
+ {
+  "id": 344,
+  "area": "msk",
+  "front": "What are signs of compartment syndrome after a fracture or cast?",
+  "back": "Severe pain out of proportion, a tense swollen limb, pain on passive stretch, numbness and later pallor. I would call for emergency medical care at once and avoid further movement of the limb."
+ },
+ {
+  "id": 345,
+  "area": "msk",
+  "front": "What signs suggest a deep vein thrombosis after surgery or immobilization?",
+  "back": "Calf pain, swelling, warmth and redness, often one sided. I would avoid massage or vigorous exercise of the limb, and arrange same day medical assessment, and call emergency services if breathlessness or chest pain appears."
+ },
+ {
+  "id": 346,
+  "area": "msk",
+  "front": "What is the most common post-operative precaution I state after a total hip replacement?",
+  "back": "Follow the surgeon's precautions, which often limit combined hip flexion beyond ninety degrees, adduction past midline and internal rotation, depending on the approach. I would confirm the surgeon's orders before teaching positions."
+ },
+ {
+  "id": 347,
+  "area": "msk",
+  "front": "After hip replacement, how do I teach safe daily activities?",
+  "back": "Use a raised toilet seat and chair, a reacher and sock aid, avoid low seats and crossing the legs, and follow the surgeon's approach specific orders. I would check the home layout and use gait aids as ordered."
+ },
+ {
+  "id": 348,
+  "area": "msk",
+  "front": "After a shoulder dislocation reduction, which positions do I avoid?",
+  "back": "Abduction with external rotation, the provocative position for anterior instability. I would teach protection, then restore range, strengthen the rotator cuff and scapula, add neuromuscular control, and refer for fracture, locking or repeated instability."
+ },
+ {
+  "id": 349,
+  "area": "msk",
+  "front": "How do I respect surgeon orders on weight bearing after a fracture?",
+  "back": "I follow the written orders for non weight bearing, toe touch, partial or full weight bearing, and teach gait aid use accordingly. I would watch for delayed healing, infection and pain changes, and contact the surgeon with concerns."
+ },
+ {
+  "id": 350,
+  "area": "msk",
+  "front": "What post-operative wound signs do I report to the surgeon or physician?",
+  "back": "Increasing redness, heat, swelling, drainage, wound opening, fever and worsening pain. I would not load the area aggressively, would document findings and arrange same day contact with the surgical team."
+ },
+ {
+  "id": 351,
+  "area": "msk",
+  "front": "What does the Lachman test assess, and what is a positive finding?",
+  "back": "It assesses the anterior cruciate ligament. With the knee in about 20 to 30 degrees of flexion, I draw the tibia forward on the femur. Excess forward translation with a soft or absent end-feel is positive for an ACL tear."
+ },
+ {
+  "id": 352,
+  "area": "msk",
+  "front": "How do I describe the Hawkins-Kennedy test and what does a positive result suggest?",
+  "back": "With the shoulder flexed to 90 degrees and the elbow bent, I passively internally rotate the arm. Reproduced shoulder pain suggests subacromial pain or impingement. I cluster it with other tests and findings rather than relying on one."
+ },
+ {
+  "id": 353,
+  "area": "msk",
+  "front": "What does the straight leg raise test look for, and what is a positive sign?",
+  "back": "It looks for lumbar nerve root irritation, most often L5 or S1. With the client lying down, I lift the leg with the knee straight. Leg pain reproduced below the knee, often between about 30 and 70 degrees, is a positive sign."
+ },
+ {
+  "id": 354,
+  "area": "msk",
+  "front": "What is the McMurray test used for and what do I look for?",
+  "back": "It screens for a meniscal tear. I flex the knee fully, then rotate the tibia while extending it. Pain, a click or a palpable catch along the joint line suggests a tear. I combine it with joint line tenderness and history."
+ },
+ {
+  "id": 355,
+  "area": "msk",
+  "front": "When do the Ottawa ankle rules call for an ankle x-ray?",
+  "back": "Request an x-ray if there is pain in the malleolar zone plus bone tenderness at the posterior edge or tip of either malleolus, or if the client cannot take four steps right after the injury and in the clinic."
+ },
+ {
+  "id": 356,
+  "area": "msk",
+  "front": "How is the Thompson test performed and what does it show?",
+  "back": "With the client prone and the foot hanging off the table, I squeeze the calf. Normally the foot plantarflexes. No movement suggests a complete Achilles tendon rupture, which needs urgent physician or surgical referral."
+ },
+ {
+  "id": 357,
+  "area": "msk",
+  "front": "What is the Spurling test and when do I stop it?",
+  "back": "I side bend and extend the neck, then add gentle axial compression. Arm pain reproduced down the limb suggests cervical radiculopathy. I stop immediately if symptoms are provoked, and I avoid it if I suspect instability or fracture."
+ },
+ {
+  "id": 358,
+  "area": "msk",
+  "front": "What does the Oswestry Disability Index measure and how is it scored?",
+  "back": "It is a self-reported questionnaire on how low back pain limits daily activities, such as lifting, walking, sitting and sleeping. It is scored as a percentage, and a higher percentage means greater disability. I use it to track change over time."
+ },
+ {
+  "id": 359,
+  "area": "msk",
+  "front": "What is the Lower Extremity Functional Scale and how do I read its score?",
+  "back": "It is a 20 item client-reported scale of lower limb function, scored from 0 to 80. Higher scores mean better function. A change of about 9 points is commonly cited as the smallest meaningful change, so I use it to reassess."
+ },
+ {
+  "id": 360,
+  "area": "msk",
+  "front": "What does the DASH questionnaire measure and which direction is better?",
+  "back": "The Disabilities of the Arm, Shoulder and Hand questionnaire measures upper limb symptoms and function across 30 items. It is scored from 0 to 100, and a higher score means more disability. I repeat it to show progress."
+ },
+ {
+  "id": 361,
+  "area": "neu",
+  "front": "List the red flags after a head injury that need urgent medical care instead of treatment.",
+  "back": "Worsening headache, repeated vomiting, drowsiness, a new or growing pupil difference, seizure, clear fluid from the nose or ear, new weakness, or confusion that is getting worse. I stop the session and arrange urgent care."
+ },
+ {
+  "id": 362,
+  "area": "neu",
+  "front": "What is the Glasgow Coma Scale and where is it used?",
+  "back": "It rates level of consciousness through eye opening, verbal response and motor response, with a total from 3 to 15. A lower score means a deeper impairment. It is used mainly in acute care to describe and track injury severity."
+ },
+ {
+  "id": 363,
+  "area": "neu",
+  "front": "What do the Rancho Los Amigos levels describe?",
+  "back": "They describe stages of cognitive and behavioural recovery after a brain injury, from no response through confused and agitated states to purposeful, appropriate behaviour. I use the level to set how I communicate and how much structure I give."
+ },
+ {
+  "id": 364,
+  "area": "neu",
+  "front": "How do I treat a concussion after the initial short rest?",
+  "back": "After a brief rest, I start sub-symptom-threshold aerobic exercise, then a graded return to school or work, then sport. I treat neck and vestibular findings and let symptoms guide each step up."
+ },
+ {
+  "id": 365,
+  "area": "neu",
+  "front": "What must I say about return to contact sport or driving after a concussion?",
+  "back": "The client must not return to contact sport or drive until a physician has given medical clearance. I explain that rest is brief, that return is graded, and that symptoms guide each step."
+ },
+ {
+  "id": 366,
+  "area": "neu",
+  "front": "A concussion client still has symptoms. When do I refer to a physician?",
+  "back": "I refer for any red flag at once. I also refer if symptoms persist beyond about four weeks, and I add occupational therapy, speech-language pathology, neuropsychology or driving assessment as the findings call for."
+ },
+ {
+  "id": 367,
+  "area": "neu",
+  "front": "What safety issues do I name for a client with moderate to severe brain injury?",
+  "back": "Falls, seizure risk, agitation, impulsivity, heat and fatigue. I also screen swallowing safety, support memory with routines and written cues, and keep instructions simple and consistent."
+ },
+ {
+  "id": 368,
+  "area": "neu",
+  "front": "What are the warning signs of stroke and what do I say to the client?",
+  "back": "Sudden face droop, arm weakness, speech change, vision loss, or severe sudden headache. I say this is time critical and have the client call 911 or go to emergency right away, even if signs have resolved."
+ },
+ {
+  "id": 369,
+  "area": "neu",
+  "front": "A client had a brief episode of stroke symptoms that went away. What do I advise?",
+  "back": "A resolved episode, often called a transient ischemic attack, still needs same-day medical assessment because it warns of a possible stroke. I do not treat that day. I arrange urgent medical review."
+ },
+ {
+  "id": 370,
+  "area": "neu",
+  "front": "What do I check first when assessing a client after stroke?",
+  "back": "Vital signs and blood pressure response to activity, alertness, communication and comprehension, neglect, visual fields, sensation, strength and tone by side, trunk control, sitting and standing balance, and shoulder position."
+ },
+ {
+  "id": 371,
+  "area": "neu",
+  "front": "What safety risks do I name for a client with hemiplegia after stroke?",
+  "back": "Falls, aspiration and dysphagia, a flaccid or painful hemiplegic shoulder, skin breakdown, blood pressure changes with upright posture, depression, deep vein thrombosis and fatigue. I never pull on the weak arm."
+ },
+ {
+  "id": 372,
+  "area": "neu",
+  "front": "How do I protect the hemiplegic shoulder?",
+  "back": "I support the weak arm during positioning, transfers and walking, and never pull on it. I avoid overhead pulleys and forceful range of motion, teach the client and staff to handle the arm safely, and monitor pain."
+ },
+ {
+  "id": 373,
+  "area": "neu",
+  "front": "What does dosage mean in stroke rehabilitation?",
+  "back": "It means many repetitions of real tasks, practised often across the day, at a level that is challenging but achievable. Task-specific, repeated and challenging practice drives recovery, so intensity matters."
+ },
+ {
+  "id": 374,
+  "area": "neu",
+  "front": "When is constraint-induced movement therapy suitable after stroke?",
+  "back": "It suits clients with some active wrist and finger movement in the weak arm. The stronger arm is restrained for part of the day while the weak arm does intensive, task-specific practice. I choose it for suitable upper limb recovery."
+ },
+ {
+  "id": 375,
+  "area": "neu",
+  "front": "Which outcome measures do I name for a stroke case?",
+  "back": "Berg Balance Scale, Timed Up and Go, 10 Metre Walk Test, 6 Minute Walk Test, Chedoke-McMaster Stroke Assessment, Modified Ashworth Scale for tone, and Functional Independence Measure. I choose one or two that fit the client's goal."
+ },
+ {
+  "id": 376,
+  "area": "neu",
+  "front": "Whom do I refer a stroke client to?",
+  "back": "The stroke rehabilitation team, speech-language pathology for swallowing and aphasia, occupational therapy, and the physician for blood pressure and secondary prevention. I also support the caregiver."
+ },
+ {
+  "id": 377,
+  "area": "neu",
+  "front": "What is the Berg Balance Scale and how do I use it?",
+  "back": "It is a 14 item performance test of balance, scored from 0 to 56. Lower scores mean worse balance and higher fall risk, and a score below about 45 is commonly used as a warning. I repeat it to show change."
+ },
+ {
+  "id": 378,
+  "area": "neu",
+  "front": "What is autonomic dysreflexia and which clients are at risk?",
+  "back": "It is a medical emergency in clients with a spinal cord injury at or above T6. Signs are severe headache, sweating and very high blood pressure, often triggered by a full bladder or bowel or a skin problem."
+ },
+ {
+  "id": 379,
+  "area": "neu",
+  "front": "What is my first response to autonomic dysreflexia?",
+  "back": "Sit the client up, loosen tight clothing and belts, and check the bladder catheter and the bowel for a trigger. If blood pressure stays high, I call for emergency help immediately."
+ },
+ {
+  "id": 380,
+  "area": "neu",
+  "front": "What does the ASIA examination tell me?",
+  "back": "It identifies the neurological level of injury and whether the injury is complete or incomplete, using sensory and motor testing. The ASIA Impairment Scale grades the result, and I use it to set realistic goals."
+ },
+ {
+  "id": 381,
+  "area": "neu",
+  "front": "What are the red flags in a client with spinal cord injury?",
+  "back": "New loss of bowel or bladder control, saddle numbness, a rising level of weakness, and severe headache with high blood pressure in an injury at or above T6. These need urgent medical care."
+ },
+ {
+  "id": 382,
+  "area": "neu",
+  "front": "How do I handle orthostatic hypotension in spinal cord injury?",
+  "back": "I change position gradually, use an abdominal binder or compression stockings if advised, monitor blood pressure and symptoms on sitting up, and lay the client back down if they feel faint or dizzy."
+ },
+ {
+  "id": 383,
+  "area": "neu",
+  "front": "What pressure injury prevention do I teach after spinal cord injury?",
+  "back": "Regular pressure relief in the chair, daily skin checks with a mirror or helper, good seating, careful transfers to avoid shearing, and prompt attention to any red area. I also warn about burns on insensate skin."
+ },
+ {
+  "id": 384,
+  "area": "neu",
+  "front": "Which outcome measures fit spinal cord injury?",
+  "back": "ASIA Impairment Scale, Spinal Cord Independence Measure, Walking Index for Spinal Cord Injury, and the 10 Metre Walk Test. I match the choice to the client's level of injury and goals."
+ },
+ {
+  "id": 385,
+  "area": "neu",
+  "front": "How do I match goals to the level of spinal cord injury?",
+  "back": "I link goals to the neurological level, for example independent transfers and manual wheelchair use in a lower thoracic injury. For incomplete injuries I add standing and body-weight-supported gait training."
+ },
+ {
+  "id": 386,
+  "area": "neu",
+  "front": "How do I map a peripheral nerve problem?",
+  "back": "I check dermatomes, myotomes and reflexes, then nerve tension tests and the Tinel sign. I decide whether the pattern fits a nerve root, a plexus or a single peripheral nerve, and ask about diabetes, alcohol and work posture."
+ },
+ {
+  "id": 387,
+  "area": "neu",
+  "front": "What are the red flags for peripheral nerve disorders?",
+  "back": "Rapidly ascending weakness, trouble breathing or swallowing as in Guillain-Barre syndrome, cauda equina signs, rapidly worsening foot drop, and a hot, swollen, painful limb. All need urgent medical care."
+ },
+ {
+  "id": 388,
+  "area": "neu",
+  "front": "What is Guillain-Barre syndrome and how does it change my exercise plan?",
+  "back": "It is a rapidly progressing weakness that often follows an infection. In recovery I use graded exercise that avoids fatigue, because overwork weakness can occur. I monitor breathing and fatigue closely."
+ },
+ {
+  "id": 389,
+  "area": "neu",
+  "front": "How do I teach safety when sensation is lost in a limb?",
+  "back": "I teach daily skin and foot checks, ask the client to avoid heat and ice over numb areas, and protect denervated muscle from overstretch. I also advise on well-fitting footwear."
+ },
+ {
+  "id": 390,
+  "area": "neu",
+  "front": "How fast does a peripheral nerve recover, and what do I tell the client?",
+  "back": "About one millimetre per day. I explain that nerves recover slowly, so progress may take months, and I set short-term goals around function while recovery continues."
+ },
+ {
+  "id": 391,
+  "area": "neu",
+  "front": "What conservative treatment do I offer for carpal tunnel syndrome?",
+  "back": "A neutral wrist splint at night, ergonomic advice, nerve gliding, and activity changes. I refer to a physician for electrodiagnostic testing or surgery if there is progressive weakness or muscle wasting."
+ },
+ {
+  "id": 392,
+  "area": "neu",
+  "front": "How do I manage foot drop?",
+  "back": "I assess cause and strength, and use an ankle-foot orthosis for safe walking. I add strengthening and gait training, and fall prevention. Rapidly worsening foot drop needs urgent physician assessment."
+ },
+ {
+  "id": 393,
+  "area": "neu",
+  "front": "What do I ask first when seeing a client with Parkinson disease?",
+  "back": "I ask about medication timing and the on and off state, then assess tremor, rigidity, bradykinesia, posture, freezing, balance, transfers, gait, speech volume, swallowing and cognition."
+ },
+ {
+  "id": 394,
+  "area": "neu",
+  "front": "When do I schedule therapy for a client with Parkinson disease?",
+  "back": "During the best medication window, when the client is in the on state, so they can practise with better movement and attention. I also adjust the plan if they report wearing off."
+ },
+ {
+  "id": 395,
+  "area": "neu",
+  "front": "What exercise approaches help Parkinson disease?",
+  "back": "Large amplitude exercise, external cues such as rhythmic beats or floor lines for freezing, aerobic and resistance training, balance training, and strategies for transfers and turning."
+ },
+ {
+  "id": 396,
+  "area": "neu",
+  "front": "What is freezing of gait and how do I help?",
+  "back": "It is a sudden, brief inability to step forward. I teach external cues, such as a rhythmic beat or lines on the floor, a wide turn, and stepping over a target. I also reduce clutter and narrow spaces."
+ },
+ {
+  "id": 397,
+  "area": "neu",
+  "front": "What are the red flags in Parkinson disease?",
+  "back": "Rapid decline, new swallowing or breathing problems, falls with injury, hallucinations, severe low blood pressure on standing, and sudden worsening that may signal infection or a medication problem."
+ },
+ {
+  "id": 398,
+  "area": "neu",
+  "front": "Which outcome measures fit Parkinson disease?",
+  "back": "Unified Parkinson Disease Rating Scale, Timed Up and Go, 5 Times Sit to Stand, and the Mini-BESTest. I select ones that match the client's goals and repeat them to show change."
+ },
+ {
+  "id": 399,
+  "area": "neu",
+  "front": "What is the Timed Up and Go and what does it show?",
+  "back": "The client stands up from a chair, walks 3 metres, turns, returns and sits. I time it in seconds. Longer times mean greater mobility limits and fall risk, and I repeat it to measure change."
+ },
+ {
+  "id": 400,
+  "area": "neu",
+  "front": "What is the 10 Metre Walk Test used for?",
+  "back": "It measures walking speed over 10 metres, usually at a comfortable pace, timed over the middle section. I use it in stroke, brain injury, spinal cord injury and Parkinson disease to track gait change."
+ },
+ {
+  "id": 401,
+  "area": "neu",
+  "front": "A client with multiple sclerosis reports a new deficit that has lasted more than 24 hours. What do you say?",
+  "back": "This may be a relapse. I would stop the planned session, check for infection or heat as a cause of temporary worsening, record the findings, and contact the physician or MS clinic promptly. I would not push through with a hard exercise plan."
+ },
+ {
+  "id": 402,
+  "area": "neu",
+  "front": "Why does a warm room matter for a client with multiple sclerosis, and what do you do about it?",
+  "back": "Overheating can temporarily worsen symptoms such as weakness, fatigue and blurred vision. I would use a cool room, cooling garments, fluids and rest breaks, and teach the client that the change usually settles once they cool down."
+ },
+ {
+  "id": 403,
+  "area": "neu",
+  "front": "How do you describe exercise for a person with multiple sclerosis in your oral answer?",
+  "back": "Say that exercise is safe and beneficial. Prescribe moderate aerobic and resistance work with rest breaks, add balance and gait training, teach energy conservation and pacing, and say you will adjust the dose if symptoms flare."
+ },
+ {
+  "id": 404,
+  "area": "neu",
+  "front": "Name outcome measures you would mention for a client with multiple sclerosis.",
+  "back": "Timed 25 Foot Walk, 6 Minute Walk Test, Berg Balance Scale and the Modified Fatigue Impact Scale. The Expanded Disability Status Scale is scored by the physician, so I would use their result rather than score it myself."
+ },
+ {
+  "id": 405,
+  "area": "neu",
+  "front": "Which red flags in a child with cerebral palsy need prompt medical contact?",
+  "back": "Loss of skills already gained, new pain, a sudden change in tone, new bladder changes, skin breakdown, and headache with vomiting and drowsiness if a shunt is present. I would stop, document and contact the physician or pediatrician."
+ },
+ {
+  "id": 406,
+  "area": "neu",
+  "front": "What is the Gross Motor Function Classification System and why do you ask about it first?",
+  "back": "It sorts a child with cerebral palsy into five levels by self-initiated mobility and equipment needs. It guides expected goals, equipment and hip surveillance, and gives the team a shared language. I also ask the family what matters most."
+ },
+ {
+  "id": 407,
+  "area": "neu",
+  "front": "What safety issues do you name for a child with cerebral palsy?",
+  "back": "Hip migration and contracture, fractures when bone density is low, pressure injury, seizures and pain. In spina bifida I also name latex allergy. I would plan stretching, positioning and referral for hip surveillance."
+ },
+ {
+  "id": 408,
+  "area": "neu",
+  "front": "What treatment approach do you describe for cerebral palsy?",
+  "back": "Goal directed, task specific practice with strengthening, treadmill training, stretching, positioning, and splinting or casting where indicated. Work through play for children, coach the family for daily practice, and plan for independence in adulthood."
+ },
+ {
+  "id": 409,
+  "area": "neu",
+  "front": "A client has a seizure during your session. What do you do?",
+  "back": "Stay with them, time the event, protect the head, clear the area, and do not restrain them or put anything in the mouth. Turn them onto their side afterward. Call emergency services if it lasts over five minutes."
+ },
+ {
+  "id": 410,
+  "area": "neu",
+  "front": "When is a seizure an emergency?",
+  "back": "A seizure lasting more than five minutes, repeated seizures without recovery between them, a first seizure, injury, trouble breathing, or a seizure after a head injury. I would call emergency services and stay with the client."
+ },
+ {
+  "id": 411,
+  "area": "neu",
+  "front": "Is exercise safe for a person with epilepsy, and what precautions do you add?",
+  "back": "Yes, regular exercise is safe and encouraged. Supervise around water and heights, and respect provincial driving rules. Help the client avoid known triggers such as overheating, sleep loss and hyperventilation, and teach the family the first aid steps."
+ },
+ {
+  "id": 412,
+  "area": "neu",
+  "front": "What do you ask a client with epilepsy before starting treatment?",
+  "back": "Triggers, any aura, how often seizures occur, medications and adherence, and what the client wants staff to do during an event. Check for injuries after any seizure. A seizure diary is a useful outcome record."
+ },
+ {
+  "id": 413,
+  "area": "neu",
+  "front": "A client reports brief spinning when rolling over in bed. What do you suspect and test?",
+  "back": "Benign paroxysmal positional vertigo. After screening eye movements, the head impulse test, test of skew and gait, I would do the Dix-Hallpike test, or the supine roll test for the horizontal canal."
+ },
+ {
+  "id": 414,
+  "area": "neu",
+  "front": "Which vertigo findings suggest a stroke rather than an inner ear problem?",
+  "back": "Vertigo with new severe headache, double vision, slurred speech, facial droop, limb weakness, or inability to walk may be a posterior circulation stroke. I would stop and send the client for emergency care. Sudden hearing loss also needs urgent referral."
+ },
+ {
+  "id": 415,
+  "area": "neu",
+  "front": "What treatment follows a positive posterior canal Dix-Hallpike test?",
+  "back": "The Epley canalith repositioning manoeuvre, with the Semont manoeuvre as an alternative. Move slowly, watch for nausea and fear, and warn about driving and falls. Refer if there is no response to repositioning or any central sign."
+ },
+ {
+  "id": 416,
+  "area": "neu",
+  "front": "How do you treat vestibular hypofunction after vestibular neuritis?",
+  "back": "Gaze stabilization, habituation and balance exercises done several times a day. Explain that mild dizziness during practice is expected and helps recovery. Track progress with the Dizziness Handicap Inventory and the Dynamic Gait Index."
+ },
+ {
+  "id": 417,
+  "area": "neu",
+  "front": "Sudden confusion over hours or days in an older client: what do you say?",
+  "back": "That is delirium until proven otherwise and needs urgent medical review. I would check vital signs, ask the caregiver what changed, review pain and medications, and contact the physician the same day rather than continuing treatment."
+ },
+ {
+  "id": 418,
+  "area": "neu",
+  "front": "Which tools do you use to screen cognition in a client with suspected dementia?",
+  "back": "A brief screen such as the Montreal Cognitive Assessment, plus a caregiver interview. I also confirm capacity for the decision at hand and review pain, medications, hearing and vision, which can all worsen cognition."
+ },
+ {
+  "id": 419,
+  "area": "neu",
+  "front": "How do you adapt instructions for a client with dementia?",
+  "back": "Use one step instructions, demonstration, familiar tasks, consistent routines and errorless learning. Keep the environment calm. Teach the caregiver the same cues so practice continues at home."
+ },
+ {
+  "id": 420,
+  "area": "neu",
+  "front": "A client with dementia lacks capacity to consent to a treatment plan. What do you do?",
+  "back": "Seek the substitute decision maker under provincial law, while still involving the client and explaining in simple terms. Document the capacity assessment and the consent. Also name falls, wandering and caregiver strain as safety issues."
+ },
+ {
+  "id": 421,
+  "area": "cvr",
+  "front": "What resting measures do you take before starting exercise with a cardiac client?",
+  "back": "Heart rate, rhythm by palpation, blood pressure sitting, respiratory rate, oxygen saturation, and ratings of dyspnea and perceived exertion on the Borg scale. I would also review the medication list before setting any exercise intensity."
+ },
+ {
+  "id": 422,
+  "area": "cvr",
+  "front": "Name stop criteria you would state aloud for cardiac exercise.",
+  "back": "Chest pain, dizziness, pallor, confusion, new arrhythmia, systolic pressure falling more than 10 mmHg as workload rises, or oxygen saturation under about 90 percent. I would also follow any stricter limits the physician has set."
+ },
+ {
+  "id": 423,
+  "area": "cvr",
+  "front": "Why use perceived exertion instead of heart rate for a client on beta blockers?",
+  "back": "Beta blockers blunt the heart rate response, so heart rate underestimates effort. I would set intensity at 11 to 13 on the 6 to 20 Borg scale and use the talk test alongside it."
+ },
+ {
+  "id": 424,
+  "area": "cvr",
+  "front": "How do you apply FITT when starting a deconditioned cardiac client?",
+  "back": "Frequency, intensity, time and type. Start with 3 to 5 days per week of short 5 to 10 minute bouts at low intensity. Build duration first, then intensity, and add light resistance work once the aerobic base is stable."
+ },
+ {
+  "id": 425,
+  "area": "cvr",
+  "front": "What sternal precautions do you teach after sternotomy?",
+  "back": "For about six to eight weeks, avoid pushing and pulling with the arms, heavy lifting and unsupported coughing. Teach hugging a pillow to cough. Refer at once for a draining wound, clicking breastbone or sternal instability."
+ },
+ {
+  "id": 426,
+  "area": "cvr",
+  "front": "What do you do for a client with a pacemaker or defibrillator before exercise?",
+  "back": "Ask for the upper rate or the device firing rate, and keep exercise heart rate at least 10 to 20 beats below that threshold. Ask the cardiology team for specific limits and report any fainting or palpitations."
+ },
+ {
+  "id": 427,
+  "area": "cvr",
+  "front": "What is your first response to exertional chest pain in a client with angina?",
+  "back": "Stop the effort and rest, then follow the client's nitroglycerin plan. If the pain does not settle in a few minutes, call emergency services. I would document the event and notify the physician before any further exercise."
+ },
+ {
+  "id": 428,
+  "area": "cvr",
+  "front": "When do you refer a stable cardiac client to cardiac rehabilitation?",
+  "back": "Once they are medically stable after a myocardial infarction, surgery, procedure or heart failure diagnosis. Cardiac rehabilitation gives supervised, monitored exercise with education, so I would send the referral and keep my own plan within those limits."
+ },
+ {
+  "id": 429,
+  "area": "cvr",
+  "front": "What red flags of worsening heart failure do you screen for?",
+  "back": "Weight gain over about 2 kg in two to three days, rising ankle swelling, breathlessness lying flat or waking at night, new fatigue, a rising resting heart rate, and falling oxygen saturation. These need same day physician contact."
+ },
+ {
+  "id": 430,
+  "area": "cvr",
+  "front": "What does New York Heart Association class describe?",
+  "back": "It grades symptom limitation in heart failure from class I, no limits in ordinary activity, to class IV, symptoms at rest. I would record it at baseline and use it with the six minute walk test to track change."
+ },
+ {
+  "id": 431,
+  "area": "cvr",
+  "front": "How do you set exercise intensity for a client with heart failure?",
+  "back": "Start at 11 to 13 on the Borg scale, with the client still able to speak in full sentences (the talk test). Stop for a systolic pressure drop or failure to rise, dizziness, chest pain, or oxygen saturation under 90 percent."
+ },
+ {
+  "id": 432,
+  "area": "cvr",
+  "front": "Which exercise pattern is often better tolerated in heart failure?",
+  "back": "Interval walking, for example 2 minutes of work and 2 minutes of rest. Add light resistance work without breath holding, and teach pursed lip breathing and forward lean to ease dyspnea. Progress slowly and monitor the response next day."
+ },
+ {
+  "id": 433,
+  "area": "cvr",
+  "front": "What do you teach a client with heart failure to do at home?",
+  "back": "Weigh daily at the same time, report rapid weight gain, swelling or worse breathlessness, and know the warning signs that mean calling the physician. Keep activity within the agreed exertion range and avoid straining."
+ },
+ {
+  "id": 434,
+  "area": "cvr",
+  "front": "What precautions apply after a recent myocardial infarction?",
+  "back": "Avoid straining and heavy isometric work, and follow the cardiologist's restrictions. Use monitored, low intensity activity with perceived exertion 11 to 13. Chest pain, syncope or a falling blood pressure means stop and refer."
+ },
+ {
+  "id": 435,
+  "area": "cvr",
+  "front": "Which outcome measures do you name for heart failure?",
+  "back": "The six minute walk test, perceived exertion, New York Heart Association class, the Minnesota Living with Heart Failure Questionnaire and sit to stand repetitions. I would also track the weight trend and symptoms between visits."
+ },
+ {
+  "id": 436,
+  "area": "cvr",
+  "front": "What is intermittent claudication, and what exercise do you prescribe?",
+  "back": "Leg pain on walking that eases with rest, caused by peripheral arterial disease. Prescribe walking to moderate leg pain, rest until it eases, and repeat for about 30 to 45 minutes in total, three or more days per week."
+ },
+ {
+  "id": 437,
+  "area": "cvr",
+  "front": "How far should a client with claudication push through leg pain?",
+  "back": "Pain is expected and tolerable up to a moderate level, but not severe. Teaching the client to stop when pain reaches about 3 out of 4 on a claudication scale is safe. They then rest until it settles."
+ },
+ {
+  "id": 438,
+  "area": "cvr",
+  "front": "Which signs suggest acute limb ischemia, and what is your action?",
+  "back": "Sudden cold, pale, painful, pulseless limb. This is an emergency. I would stop treatment, keep the client at rest, call emergency services and document the time of onset. Rest pain in the foot and non healing wounds need prompt referral."
+ },
+ {
+  "id": 439,
+  "area": "cvr",
+  "front": "What do you check first when assessing peripheral arterial disease?",
+  "back": "Pulses, capillary refill, skin temperature and colour, the ankle brachial index if available in my setting, and wound inspection. For new symptoms I would also take blood pressure in both arms."
+ },
+ {
+  "id": 440,
+  "area": "cvr",
+  "front": "Why check arterial supply before applying compression?",
+  "back": "Compression is unsafe in significant arterial disease because it can further reduce blood flow to the limb. I would check pulses and ankle brachial index first, and refer if circulation is poor before using graded compression for venous disease."
+ },
+ {
+  "id": 441,
+  "area": "cvr",
+  "front": "Name outcome measures for a client with peripheral arterial disease.",
+  "back": "Walking distance on a treadmill or the six minute walk test, a claudication pain scale and wound size. These show whether the walking program is raising pain free and maximal walking distance over time."
+ },
+ {
+  "id": 442,
+  "area": "cvr",
+  "front": "A client has a hot, red, swollen, painful calf. What do you say?",
+  "back": "I suspect a deep vein thrombosis. I would use a rule such as the Wells score, give no massage and no exercise, and send the client for same day medical review and imaging."
+ },
+ {
+  "id": 443,
+  "area": "cvr",
+  "front": "What does the Wells score do for suspected DVT?",
+  "back": "It combines clinical features such as calf swelling, tenderness, a recent immobility or cancer history, and whether another diagnosis is likelier, to estimate DVT probability. A moderate or high score means urgent medical review, not treatment by the physiotherapist."
+ },
+ {
+  "id": 444,
+  "area": "cvr",
+  "front": "Which clients are at higher risk of deep vein thrombosis?",
+  "back": "People after surgery or injury, those on prolonged bed rest or immobilization, and those with stroke, spinal cord injury, cancer, pregnancy or a past clot. I would screen at every visit and report new calf pain or swelling."
+ },
+ {
+  "id": 445,
+  "area": "cvr",
+  "front": "What do you do if you suspect DVT during a treatment session?",
+  "back": "Stop, avoid massage and exercise of the limb, and keep the client resting. Arrange same day medical review, tell the physician what I saw, and document the findings and my actions. Do not wait for the next visit."
+ },
+ {
+  "id": 446,
+  "area": "cvr",
+  "front": "What red flags suggest a clot has reached the lungs?",
+  "back": "Sudden shortness of breath, pleuritic chest pain, fast heart rate, hemoptysis or fainting, especially with a known or suspected leg clot. This is an emergency, so I would call emergency services and stay with the client."
+ },
+ {
+  "id": 447,
+  "area": "cvr",
+  "front": "How do you manage chronic venous disease and leg swelling?",
+  "back": "Leg elevation, calf pump exercises, graded compression after arterial supply is checked, and skin care. Measure limb girth and wound size, and refer unhealed ulcers. Suspected DVT must be ruled out before starting these."
+ },
+ {
+  "id": 448,
+  "area": "cvr",
+  "front": "Which blood pressure reading needs a physician before exercise?",
+  "back": "A resting pressure at or above about 180 over 110 is a red flag for medical review, and above about 200 over 110 means do not start. A systolic under about 90 with symptoms also needs a physician first."
+ },
+ {
+  "id": 449,
+  "area": "cvr",
+  "front": "What do you document after a cardiovascular screening visit?",
+  "back": "Resting vitals, red flag findings, exertion ratings, the exercise dose given, the client's response, any stop event, who I notified and what I referred. Clear notes protect the client and show safe, reasoned practice."
+ },
+ {
+  "id": 450,
+  "area": "cvr",
+  "front": "How should you close any oral answer about a cardiovascular case?",
+  "back": "Say who you would tell, who you would refer to, and what you would document. Add that the client chooses the goals, you would follow any physician limits, and a delayed worsening the next day means the dose was too high."
+ },
+ {
+  "id": 451,
+  "area": "cvr",
+  "front": "What oxygen saturation target is common for a person with COPD, and what do you say about oxygen?",
+  "back": "A target near 88 to 92 percent is common during oxygen use. Say you would follow the physician's oxygen prescription and would not increase oxygen yourself, because too much can worsen carbon dioxide retention in some people."
+ },
+ {
+  "id": 452,
+  "area": "cvr",
+  "front": "Which breathing techniques do you teach first to a client with COPD who is short of breath on exertion?",
+  "back": "Pursed lip breathing, forward lean positioning and diaphragmatic breathing with breathing control. Add energy conservation and pacing. These ease dyspnea and let the person keep exercising at a safe exertion level."
+ },
+ {
+  "id": 453,
+  "area": "cvr",
+  "front": "How do you dose aerobic exercise for a client with stable COPD?",
+  "back": "Three to five days a week, 20 to 30 minutes in total, using intervals if needed. Keep perceived dyspnea at 3 to 4 out of 10, add light leg strength work, and stop if saturation falls under 88 percent."
+ },
+ {
+  "id": 454,
+  "area": "cvr",
+  "front": "A client with COPD has more sputum, a new fever and rising breathlessness. What do you do?",
+  "back": "Do not exercise. These are signs of a possible exacerbation or infection. Check vitals and saturation, then tell the physician the same day and explain why treatment is being held."
+ },
+ {
+  "id": 455,
+  "area": "cvr",
+  "front": "What should you do before exercising a client with asthma, and when do you avoid exercise?",
+  "back": "Check inhaler technique, confirm the rescue inhaler is at hand, and use a warm up to limit exercise induced symptoms. Avoid exercise during a flare, and stop for wheeze that does not settle with the rescue inhaler."
+ },
+ {
+  "id": 456,
+  "area": "cvr",
+  "front": "What is the red flag in asthma that needs urgent medical help during a session?",
+  "back": "Wheeze or breathlessness that does not respond to the rescue inhaler, with difficulty speaking in full sentences, blue lips or drowsiness. Stop, keep the person upright, and call emergency services."
+ },
+ {
+  "id": 457,
+  "area": "cvr",
+  "front": "How do you manage airway clearance for a client with cystic fibrosis?",
+  "back": "Use the family's current routine, such as active cycle of breathing, huff coughing, positive expiratory pressure or oscillating devices, once or twice daily and more when unwell. Regular aerobic exercise also helps clear secretions."
+ },
+ {
+  "id": 458,
+  "area": "cvr",
+  "front": "What infection control rule applies to clients with cystic fibrosis in a clinic?",
+  "back": "Cross infection is a safety issue. Say you would schedule a separate time or room, avoid shared spaces and equipment with other cystic fibrosis clients, and clean equipment well. Hemoptysis means contacting the clinic team."
+ },
+ {
+  "id": 459,
+  "area": "cvr",
+  "front": "After abdominal or thoracic surgery, which exercises lower the risk of post-operative pulmonary complications?",
+  "back": "Sustained maximal inspiration with a three second hold, incentive spirometry about ten breaths every hour while awake, a supported cough with a pillow over the incision, and early mobilization, often on day one if the team agrees."
+ },
+ {
+  "id": 460,
+  "area": "cvr",
+  "front": "A client recovering from COVID-19 has chest pain or palpitations on light effort. What is your response?",
+  "back": "Hold exercise and arrange medical review first, since heart involvement must be ruled out. If cleared, restart very light activity at exertion 9 to 11, progress in small steps every few days, and back off if symptoms flare."
+ },
+ {
+  "id": 461,
+  "area": "oth",
+  "front": "What red flags tell you a wound or skin problem needs a physician the same day?",
+  "back": "Spreading redness with fever, a hot swollen limb, purulent or foul drainage, exposed bone or tendon, and black tissue or a new blister in someone with poor circulation. Stop treatment and refer the same day."
+ },
+ {
+  "id": 462,
+  "area": "oth",
+  "front": "What is the physiotherapist's main contribution to pressure injury care?",
+  "back": "Mobility, positioning and pressure relief. Teach weight shifts about every 15 to 30 minutes in a chair, regular repositioning in bed, and advocate for the right cushion or mattress. Wound dressing stays with the wound care team."
+ },
+ {
+  "id": 463,
+  "area": "oth",
+  "front": "When should you refer a wound to the physician or wound care nurse?",
+  "back": "For suspected infection, any exposed deep structure, or a wound that has not shrunk in two to four weeks. Also stop and refer if redness spreads or the person develops a fever."
+ },
+ {
+  "id": 464,
+  "area": "oth",
+  "front": "What must you avoid over an infected, frostbitten or fragile skin area?",
+  "back": "Heat, stretching and deep massage. Use clean technique, follow infection control, and do not debride or dress a wound beyond your scope and training. Choose positioning, elevation and gentle mobility instead."
+ },
+ {
+  "id": 465,
+  "area": "oth",
+  "front": "What do you check before exercising a client with diabetes who uses insulin?",
+  "back": "Ask about recent glucose readings, medication, the last meal and any history of lows. Confirm glucose before exercise and keep a fast sugar source at hand. Delay exercise if glucose is very low or very high with symptoms."
+ },
+ {
+  "id": 466,
+  "area": "oth",
+  "front": "What are the signs of low blood sugar you should name aloud?",
+  "back": "Shakiness, sweating, confusion and hunger. If they appear, stop the session, give a fast sugar source if the person is awake and able to swallow, and call for help if they do not improve."
+ },
+ {
+  "id": 467,
+  "area": "oth",
+  "front": "How do you protect the feet of a client with diabetes and reduced sensation?",
+  "back": "Check skin, pulses, sensation with a monofilament and footwear before and after sessions. Avoid barefoot work and heat. Report any new ulcer, redness or drainage to the physician or diabetes team."
+ },
+ {
+  "id": 468,
+  "area": "oth",
+  "front": "How do you start an exercise program for a client with type 2 diabetes?",
+  "back": "Aerobic exercise most days and resistance training two or three days a week. Start with 10 to 15 minutes at low to moderate effort, add about five minutes a week, and use the talk test as a stop guide."
+ },
+ {
+  "id": 469,
+  "area": "oth",
+  "front": "What do you say about chest pain on exertion in a person with diabetes?",
+  "back": "It may present without classic pain, so take any exertional chest discomfort, unusual breathlessness or fatigue seriously. Stop exercise, check vitals, and send the person for medical assessment."
+ },
+ {
+  "id": 470,
+  "area": "oth",
+  "front": "What safety points apply to exercise for a client with chronic kidney disease on dialysis?",
+  "back": "Ask about dialysis days and fluid limits. Do not exercise or load the access arm, and avoid high exertion right after dialysis, when blood pressure can drop. Refer sudden swelling or low urine output."
+ },
+ {
+  "id": 471,
+  "area": "oth",
+  "front": "Which pregnancy red flags make you stop and refer the same day?",
+  "back": "Vaginal bleeding, leaking fluid, severe headache with visual changes or sudden facial swelling, a red hot swollen calf, chest pain or breathlessness at rest, reduced fetal movement, severe abdominal pain, and fainting."
+ },
+ {
+  "id": 472,
+  "area": "oth",
+  "front": "What do you ask first when a pregnant client has pelvic pain?",
+  "back": "Gestational age, whether the pregnancy is low risk, who the care provider is, and the nature of the complaint. Screen for red flags, then assess pelvic floor symptoms such as leaking or heaviness."
+ },
+ {
+  "id": 473,
+  "area": "oth",
+  "front": "How much activity is usually accepted for pregnant people without complications?",
+  "back": "They are encouraged to be active, with moderate activity of at least about 150 minutes a week. Avoid long periods flat on the back late in pregnancy, overheating, and activities with fall or abdominal impact risk."
+ },
+ {
+  "id": 474,
+  "area": "oth",
+  "front": "When do you stop exercise with a pregnant client?",
+  "back": "Stop for dizziness, vaginal bleeding, leaking fluid, chest pain or contractions. Refer to the care provider. Heat, strong electrical modalities and deep abdominal work need clear medical clearance first."
+ },
+ {
+  "id": 475,
+  "area": "oth",
+  "front": "What are the postpartum red flags you name in an oral answer?",
+  "back": "Heavy bleeding, fever, calf pain, breathlessness, hopelessness or thoughts of self harm, and a caesarean wound that is opening. Refer the same day, and act immediately for any risk of self harm."
+ },
+ {
+  "id": 476,
+  "area": "oth",
+  "front": "How do you restart exercise after childbirth?",
+  "back": "Gradually: walking, breathing with pelvic floor coordination, then strength work. Return to impact only when there is no leaking, heaviness or pain. Dose by symptoms rather than by weeks, and protect a caesarean incision."
+ },
+ {
+  "id": 477,
+  "area": "oth",
+  "front": "When do you refer a postpartum client to a pelvic health physiotherapist?",
+  "back": "For persistent urinary leaking, heaviness or prolapse symptoms, or pelvic pain that does not settle. Use a pelvic floor symptom report as an outcome and set functional goals with the client."
+ },
+ {
+  "id": 478,
+  "area": "oth",
+  "front": "What do you ask and watch for in a client with Crohn disease who wants to exercise?",
+  "back": "Ask about the current flare, medications such as steroids, and fatigue. Do not push through severe abdominal pain, bleeding, fever or dehydration. Use gentle pacing and refer flare signs to the physician."
+ },
+ {
+  "id": 479,
+  "area": "oth",
+  "front": "Why does long term steroid use matter for exercise prescription in Crohn disease?",
+  "back": "Steroids weaken bone and tendons. Prefer weight bearing and light to moderate resistance work added in small steps, avoid sudden heavy loads, and tell the physician about unexplained bone pain or a suspected fracture."
+ },
+ {
+  "id": 480,
+  "area": "oth",
+  "front": "What outcome measures suit a client with an inflammatory bowel condition like Crohn disease?",
+  "back": "Fatigue scales, pain ratings, and function such as the sit to stand test and walking distance. Track symptom response to activity and share any worsening with the physician or gastroenterology team."
+ },
+ {
+  "id": 481,
+  "area": "oth",
+  "front": "What red flags do you name first for a client with lupus?",
+  "back": "Fever or new infection, swollen hot joints, chest pain, a new rash with breathing difficulty, severe headache or sudden vision change, and unusual weakness. These need medical review before continuing exercise."
+ },
+ {
+  "id": 482,
+  "area": "oth",
+  "front": "How do you adjust exercise for a client with lupus during a flare?",
+  "back": "Reduce load, protect joints and keep gentle movement within comfort. Do not exercise through a hot swollen joint or a fever. Return to regular moderate aerobic and strength work once the flare settles."
+ },
+ {
+  "id": 483,
+  "area": "oth",
+  "front": "What is pacing, and why does it suit a client with lupus or another autoimmune disease?",
+  "back": "Planned rest, shorter sessions and small steps up in activity, which helps manage fatigue that varies through the day. Ask how fatigue behaves and schedule sessions at the person's best time."
+ },
+ {
+  "id": 484,
+  "area": "oth",
+  "front": "Why does medication history matter for a client with lupus or immune disease?",
+  "back": "Steroids and biologics change infection and injury risk. Practise strict hand and equipment hygiene, reschedule if you are unwell, and check recent blood work, since low counts change exercise advice."
+ },
+ {
+  "id": 485,
+  "area": "oth",
+  "front": "How do you recognize cellulitis and what is your response?",
+  "back": "Red, warm, tender skin that spreads quickly, often with fever and a swollen limb. Stop treatment, avoid heat and massage, and refer the same day to the physician or emergency department."
+ },
+ {
+  "id": 486,
+  "area": "oth",
+  "front": "What advice do you give a client at risk of lymphedema after lymph node removal?",
+  "back": "Protect the limb from injury and infection, report new swelling, heaviness or redness promptly, and refer for lymphedema management. Gradual exercise is encouraged, and the surgeon's timeline guides shoulder range."
+ },
+ {
+  "id": 487,
+  "area": "oth",
+  "front": "What should you do for a limb with suspected lymphedema complicated by pain and swelling?",
+  "back": "Do not assume it is lymphedema. A painful swollen limb may be a blood clot or infection, so refer urgently. Once cleared, use elevation, skin care and gradual exercise with a lymphedema therapist."
+ },
+ {
+  "id": 488,
+  "area": "oth",
+  "front": "What is the physiotherapist's role in lymphedema care?",
+  "back": "Screen for risk and early swelling, teach skin protection and exercise, support compression as prescribed, and refer to a certified lymphedema therapist. Avoid heat, injury and deep massage over affected tissue."
+ },
+ {
+  "id": 489,
+  "area": "oth",
+  "front": "What cancer related emergency do you name for new leg weakness and back pain?",
+  "back": "Possible spinal cord compression, an emergency. Stop, do not treat, and send the person to the emergency department now. Say it aloud as a red flag in anyone with a cancer history."
+ },
+ {
+  "id": 490,
+  "area": "oth",
+  "front": "What do you review first when treating someone during or after cancer treatment?",
+  "back": "The type and stage of cancer, treatments such as surgery, chemotherapy or radiation, bone involvement, and recent blood counts. Low platelets, hemoglobin or white cells change what exercise is safe."
+ },
+ {
+  "id": 491,
+  "area": "oth",
+  "front": "How do you keep a client with bone metastasis safe during exercise?",
+  "back": "Avoid high impact, heavy resistance and twisting through the affected area until the oncology team gives limits. Watch for new or night pain, and refer promptly for suspected fracture."
+ },
+ {
+  "id": 492,
+  "area": "oth",
+  "front": "How do you prescribe exercise during or after cancer treatment?",
+  "back": "Moderate aerobic activity several days a week plus light to moderate resistance work, adjusted daily for fatigue and blood counts. Avoid resisted work with low platelets and protect against infection with low white cells."
+ },
+ {
+  "id": 493,
+  "area": "oth",
+  "front": "What outcome measures would you use for a cancer rehabilitation client?",
+  "back": "Fatigue scales, the six minute walk test, grip strength, shoulder range after breast surgery, and function. Refer urgently for suspected cord compression, a swollen painful limb, or a possible new tumour."
+ },
+ {
+  "id": 494,
+  "area": "oth",
+  "front": "What is ICU acquired weakness and what is the early mobility pathway?",
+  "back": "Muscle weakness that develops during critical illness. Start early with bed mobility, sitting at the edge of the bed, standing and then walking as stability allows, in short sessions with rests."
+ },
+ {
+  "id": 495,
+  "area": "oth",
+  "front": "What do you review before mobilizing a critically ill client?",
+  "back": "The chart, vital signs, sedation level, lines, drains, oxygen needs and the team's activity orders. Agree on stop limits, monitor vitals during activity, and stop for unstable vitals or new arrhythmias."
+ },
+ {
+  "id": 496,
+  "area": "oth",
+  "front": "Which findings during an ICU mobility session mean you should stop?",
+  "back": "Unstable vital signs, rising oxygen requirement, new arrhythmia, chest pain, new confusion or distress, and anything outside the limits agreed with the team. Return the person to a safe position and inform the team."
+ },
+ {
+  "id": 497,
+  "area": "oth",
+  "front": "What are the components of a good falls prevention plan?",
+  "back": "A multi-component plan: progressive strength and balance training at least two or three times a week for about three months, medication review, home safety, vision and footwear. Refer to the pharmacist and occupational therapist."
+ },
+ {
+  "id": 498,
+  "area": "oth",
+  "front": "A client fell and hit their head while on blood thinners. What do you say?",
+  "back": "This is a red flag. Screen for headache, confusion, drowsiness, vomiting or loss of consciousness, and send them for urgent medical assessment even if they seem well. Do not continue exercise."
+ },
+ {
+  "id": 499,
+  "area": "oth",
+  "front": "Which outcome measures do you use in a falls and frailty case?",
+  "back": "Timed Up and Go, thirty second sit to stand, gait speed, Berg balance scale and the Clinical Frailty Scale. Refer to the physician after any injurious fall and to geriatric services when decline is global."
+ },
+ {
+  "id": 500,
+  "area": "oth",
+  "front": "What is the recommended weekly activity for healthy adults in Canada, and how do you progress it?",
+  "back": "At least 150 minutes of moderate to vigorous activity weekly, strength work for major muscle groups on two days, and balance work for older adults. Start below capacity, add about ten percent weekly, review at two to four weeks."
+ }
+]

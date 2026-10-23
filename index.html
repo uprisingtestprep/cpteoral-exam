@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CPTE Oral Section Case Rehearsal &amp; Question Practice</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="gate-screen" class="screen">
+  <div class="gate-box">
+    <div class="brand">Uprising Test Prep</div>
+    <h1>CPTE Oral Section Practice Tools</h1>
+    <p class="muted">Enter your access code to begin.</p>
+    <input id="access-code-input" type="text" placeholder="Access Code" autocomplete="off">
+    <button id="gate-submit" class="btn btn-primary">Enter</button>
+    <p id="gate-error" class="error"></p>
+  </div>
+</div>
+
+<div id="mode-screen" class="screen" style="display:none">
+  <div class="mode-grid">
+    <div class="mode-card" id="mode-cases">
+      <h2>Single Case Rehearsal</h2>
+      <p>60 practice cases. Read the client profile, clinical scenario and three
+      questions, then answer aloud against a real 15-minute clock. Afterwards
+      reveal the examiner checklist, performance scale and model spoken answer
+      and score yourself.</p>
+    </div>
+    <div class="mode-card" id="mode-mock">
+      <h2>Full Mock Oral Section</h2>
+      <p>Sit all 10 cases of a mock back to back, 15 minutes each, with no
+      pauses and nothing revealed until the end. Then review and score each
+      case for a total out of 150.</p>
+    </div>
+    <div class="mode-card" id="mode-mcq">
+      <h2>Supplementary Question Practice</h2>
+      <p>500 knowledge-check questions. The real Oral Section has no multiple
+      choice at all, so use this only to drill the facts behind the cases,
+      never as a model of the real format.</p>
+    </div>
+  </div>
+</div>
+
+<div id="list-screen" class="screen" style="display:none">
+  <header class="app-header">
+    <div>
+      <div class="brand">Uprising Test Prep</div>
+      <h1>60 Practice Cases</h1>
+    </div>
+    <div class="header-actions">
+      <a href="#" id="back-to-mode-from-list" class="btn btn-ghost">Modes</a>
+      <a href="flashcards/index.html" target="_blank" class="btn btn-ghost">Flashcards</a>
+    </div>
+  </header>
+  <div class="filters">
+    <select id="filter-mock"><option value="">All Mocks</option></select>
+    <select id="filter-area"><option value="">All Areas of Practice</option></select>
+    <span id="case-count" class="muted"></span>
+  </div>
+  <div id="case-list" class="station-list"></div>
+</div>
+
+<div id="mockpick-screen" class="screen" style="display:none">
+  <header class="app-header">
+    <button id="back-to-mode-from-mockpick" class="btn btn-ghost">&#8592; Modes</button>
+    <div>Full Mock Oral Section</div>
+  </header>
+  <div class="station-body">
+    <section class="panel">
+      <h2>Choose a mock</h2>
+      <p class="muted">Allow 2 hours 30 minutes. Each case gets exactly 15 minutes. Reading, planning and
+      speaking all happen inside the 15 minutes, as on the real exam. Answer out loud. When the clock
+      ends the case is closed and you move on, even mid-sentence.</p>
+      <div id="mock-buttons" class="timer-controls"></div>
+    </section>
+  </div>
+</div>
+
+<div id="case-screen" class="screen" style="display:none">
+  <header class="app-header">
+    <button id="back-to-list" class="btn btn-ghost">&#8592; All Cases</button>
+    <div id="case-title-header"></div>
+  </header>
+  <div class="station-body">
+    <div class="meta-row">
+      <span id="case-area-badge" class="badge"></span>
+      <span id="case-mock-badge" class="badge"></span>
+    </div>
+
+    <section class="panel timer-panel">
+      <div class="mock-bar"><h2>Case Clock</h2><span id="mock-progress" class="muted"></span></div>
+      <p class="muted timer-howto" id="timer-howto">
+        Read the case below, then click <strong>Start 15-Minute Clock</strong>. The 15 minutes include
+        reading, planning and speaking. Answer the three questions aloud, in order. The examiners give
+        no time warnings, but this clock does turn amber at 3 minutes and red at 1 minute.
+      </p>
+      <div id="timer-display" class="big">15:00</div>
+      <div id="timer-label" class="muted">Ready</div>
+      <div class="timer-controls">
+        <button id="timer-start" class="btn btn-primary">Start 15-Minute Clock</button>
+        <button id="timer-reset" class="btn btn-ghost">Reset</button>
+        <button id="next-case-btn" class="btn btn-primary hidden">Next Case &#8594;</button>
+      </div>
+    </section>
+
+    <div id="candidate-resource">
+      <section class="panel"><h2>Client Profile</h2><p id="case-profile" class="profile-text"></p></section>
+      <section class="panel"><h2>Clinical Scenario</h2><p id="case-scenario" class="profile-text"></p></section>
+      <section class="panel"><h2>Case Questions <span class="muted">(answer aloud, in this order)</span></h2>
+        <div id="case-questions"></div></section>
+      <section class="panel"><h2>Notes <span class="muted">(like the exam platform's notes tool)</span></h2>
+        <textarea id="case-notes" rows="6" style="width:100%" placeholder="Plan your answers here"></textarea></section>
+    </div>
+
+    <section class="panel" id="reveal-panel">
+      <button id="reveal-btn" class="btn btn-primary btn-block">Reveal Checklist, Scale and Model Answer</button>
+    </section>
+
+    <section id="answer-section" class="panel answer-section" style="display:none">
+      <h2>Review and Score Yourself</h2>
+      <p class="note">Tick every checklist item you actually said. Choose the scale level that best describes your
+      reasoning. This practice scoring (3 points from the checklist, 2 from the scale, per question) is the
+      publisher's own, not CAPR's allocation.</p>
+      <div id="review-container"></div>
+      <div class="score-box" id="case-score"></div>
+      <div class="domain-block"><h3>Safety or Professional Point Built Into the Case</h3><p id="safety-point-text"></p></div>
+      <div class="domain-block"><h3>Common Candidate Errors</h3><p id="common-errors-text"></p></div>
+      <div class="domain-block"><h3>Examiner Notes</h3><p id="examiner-notes-text"></p></div>
+    </section>
+  </div>
+</div>
+
+<div id="mockreview-screen" class="screen" style="display:none">
+  <header class="app-header">
+    <button id="back-to-mode-from-review" class="btn btn-ghost">&#8592; Modes</button>
+    <div id="mockreview-title">Mock Review</div>
+  </header>
+  <div class="station-body">
+    <section class="panel">
+      <h2>Mock complete</h2>
+      <p class="muted">Open each case to reveal the checklist, scale and model answer and score yourself. Your total out of 150 appears here as you score.</p>
+      <div id="mock-total" class="score-box"></div>
+      <div id="mock-case-list" class="station-list"></div>
+    </section>
+  </div>
+</div>
+
+<div id="mcq-screen" class="screen" style="display:none">
+  <header class="app-header">
+    <button id="back-to-mode-from-mcq" class="btn btn-ghost">&#8592; Modes</button>
+    <div id="mcq-title-header">Question Practice</div>
+  </header>
+  <div class="mcq-body">
+    <div class="filters" style="padding-left:0;padding-right:0">
+      <select id="mcq-filter-area"><option value="">All Areas</option></select>
+    </div>
+    <div class="mcq-progress" id="mcq-progress"></div>
+    <div class="panel">
+      <p id="mcq-question" style="font-weight:600; margin-bottom: 0.5rem;"></p>
+      <div class="mcq-options" id="mcq-options-container"></div>
+      <div id="mcq-explanation" style="display:none"><p id="mcq-explanation-text"></p></div>
+      <div class="mcq-nav">
+        <button id="mcq-prev" class="btn btn-ghost">&#8592; Previous</button>
+        <button id="mcq-next" class="btn btn-primary">Next &#8594;</button>
+      </div>
+    </div>
+    <div id="mcq-score"></div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
